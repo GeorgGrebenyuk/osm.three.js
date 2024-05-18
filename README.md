@@ -2,7 +2,7 @@
 Custom implementation of viewer the vector-OSM (OpenStreetMap) files using `jquery` (reading xml) and `threejs` (visualize graphics).
 
 # Using
-Load your OSM-file to web-space and wait file's parsing. Enjoy!
+Load your OSM-file to web-space in  https://georggrebenyuk.github.io/threeJS_sample/, and wait file's parsing. Enjoy!
 
 # How OSM-file is readed?
 
