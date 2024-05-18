@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="OSM vector-files visualize with three.js">
+    <title>OSM-Viewer.three.js</title>
+    <style>
+        body {
+            margin: 0;
+        }
+
+        canvas {
+            width: 100%;
+            height: 100%
+        }
+      </style>
+	  
+	<!--  Auxiliary  -->
+	<script src="./js/deps/jquery-3.7.0.js"></script>
+	<!--  Three.js  -->
+    <script src="./js/osm_viewer.three.js"></script>
+    <script src="./js/deps/three.min.js"></script>
+	<script src="./js/controls/OrbitControls.js"></script>
+	
+	
+  </head>
+   <body>
+		
+		<script>
+        // DefaultUp
+        THREE.Object3D.DefaultUp.set(0, 0, 1);
+
+        // Create an empty scene
+        var scene = new THREE.Scene();
+
+        // Create a basic perspective camera
+        var cameraDistance = 10;
+        var camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.1, 5000);
+
+        camera.position.set(cameraDistance, -cameraDistance, cameraDistance)
+
+        // Create a renderer with Antialiasing
+        var renderer = new THREE.WebGLRenderer({
+            //antialias: true,
+            //autoSize: true,
+            //alpha: true
+        });
+
+        //Loaded OSM file
+        var osm_loader_handler = new OSM_Processing();
+
+        // PixelRatio
+        renderer.setPixelRatio(window.devicePixelRatio);
+
+        // Configure renderer clear color
+        renderer.setClearColor("#121212");
+
+        // Configure renderer size
+        renderer.setSize(window.innerWidth, window.innerHeight);
+
+        // Append Renderer to DOM
+        document.body.appendChild(renderer.domElement);
+
+        // ------------------------------------------------
+        // EVENTS
+        // ------------------------------------------------
+
+        // dragover and drop
+        document.addEventListener('dragover', function (event) {
+            event.preventDefault();
+        });
+        document.addEventListener('drop', function (event) {
+            event.preventDefault();
+            var files = event.dataTransfer.files;
+            Clear();
+            for (let file of files) {
+                console.log(file);
+                const reader = new FileReader();
+                reader.addEventListener('load', (event) => {
+                    LoadOSM(event.target.result);
+                });
+                reader.readAsText(file);
+            }
+        });
+
+        document.addEventListener("keydown", function(event) {
+            if (event.key === "1") {
+                renderer.setClearColor("#121212");
+            }
+            if (event.key === "2") {
+                renderer.setClearColor("#fefefe");
+            }
+            if (event.key === "c") {
+                Clear();
+            }
+            render();
+        });
+
+        // ------------------------------------------------
+        // FUN STARTS HERE
+        // ------------------------------------------------
+
+        // Light
+        scene.add(new THREE.HemisphereLight(0xcccccc, 0x111111));
+        scene.add(new THREE.AmbientLight(0x555555));
+
+        // TimeOut Loop
+        var timeout = 5000;
+
+        // Render Loop
+        var renderLoop = function () {
+            setTimeout("renderLoop()", timeout);
+            render();
+        };
+
+        // Render
+        var render = function () {
+            // Render the scene
+            renderer.render(scene, camera);
+        };
+
+        render();
+        renderLoop();
+		
+		// OrbitControls
+        var controls = new THREE.OrbitControls(camera, renderer.domElement);
+        controls.addEventListener('change', render);
+        controls.update();
+
+        // Resize
+        window.addEventListener("resize", function () {
+            var aspect = window.innerWidth / window.innerHeight;
+            if (camera.aspect) {
+                camera.aspect = aspect;
+            }
+
+            if (camera.left) {
+                camera.left = -aspect * viewSize / 2;
+                camera.right = aspect * viewSize / 2;
+                camera.top = viewSize / 2;
+                camera.bottom = -viewSize / 2;
+            }
+
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+
+            render();
+        })
+
+        function zoomCameraToSelection(camera, controls, selection, fitOffset = 1.2) {
+
+            const box = new THREE.Box3();
+
+            for (const object of selection) box.expandByObject(object);
+
+            const size = box.getSize(new THREE.Vector3());
+            const center = box.getCenter(new THREE.Vector3());
+
+            const maxSize = Math.max(size.x, size.y, size.z);
+            const fitHeightDistance = maxSize / (2 * Math.atan(Math.PI * camera.fov / 360));
+            const fitWidthDistance = fitHeightDistance / camera.aspect;
+            const distance = fitOffset * Math.max(fitHeightDistance, fitWidthDistance);
+
+            const direction = controls.target.clone()
+                .sub(camera.position)
+                .normalize()
+                .multiplyScalar(distance);
+
+            controls.maxDistance = distance * 10;
+            controls.target.copy(center);
+
+            camera.near = distance / 100;
+            camera.far = distance * 100;
+            camera.updateProjectionMatrix();
+
+            camera.position.copy(controls.target).sub(direction);
+
+            controls.update();
+        }
+
+        var LoadOSM = function (osm_data) {
+            osm_loader_handler.LoadData(osm_data);
+            for (let i = 0; i < osm_loader_handler.OSM_Features.length; i++)
+            {
+                var item = osm_loader_handler.OSM_Features[i];
+                var g = item.getGeometry();
+                var attrs = item.Properties;
+                //console.log(attrs);
+                //scene.add(g);
+                //&& item.Feature_type != "linestring"
+                if (Object.keys(attrs).length > 1 && g !== undefined ) 
+                {
+                    scene.add(g);
+                    //console.log("Add");
+                }
+            }
+            zoomCameraToSelection(camera, controls, scene.children);
+            render();
+            console.log("End!");
+        };
+
+        var Clear = function () {
+            if (osm_loader_handler !== undefined) osm_loader_handler.ClearData();   
+            while (scene.children.length > 0) {
+                var children = scene.children[0];
+                scene.remove(children);
+            }
+            // Light
+            scene.add(new THREE.HemisphereLight(0xcccccc, 0x111111));
+            scene.add(new THREE.AmbientLight(0x555555));
+            render();
+        };
+
+        var CreateText = function () {
+            var canvas1 = document.createElement('canvas');
+            var context1 = canvas1.getContext('2d');
+            context1.font = "Bold 25px Arial";
+            context1.fillStyle = "rgba(150,150,150,1)";
+            context1.fillText('Перетащите сюда ', 0, 80);
+            context1.fillText('ваш OSM файл...', 0, 104);
+
+            // canvas contents will be used for a texture
+            var texture1 = new THREE.Texture(canvas1)
+            texture1.needsUpdate = true;
+            
+            var material1 = new THREE.MeshBasicMaterial({
+                map: texture1,
+                side: THREE.DoubleSide
+            });
+            material1.transparent = true;
+
+            var mesh1 = new THREE.Mesh(new THREE.PlaneGeometry(10, 10), material1 );
+            mesh1.position.set(4, -2, 0);
+
+            scene.add(mesh1)
+            render();
+        }
+
+        CreateText();
+
+    </script>
+
+	</body>
+</html>
