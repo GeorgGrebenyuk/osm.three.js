@@ -1,0 +1,2749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.2 (449739 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="59.9432800" minlon="30.3346700" maxlat="59.9455400" maxlon="30.3377400"/>
+ <node id="79806052" visible="true" version="4" changeset="14366507" timestamp="2012-12-22T14:12:00Z" user="Danidin9" uid="395588" lat="59.9451778" lon="30.3373940"/>
+ <node id="79806053" visible="true" version="4" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9461448" lon="30.3370269"/>
+ <node id="782103391" visible="true" version="5" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9423323" lon="30.3373375"/>
+ <node id="1686864253" visible="true" version="3" changeset="14366507" timestamp="2012-12-22T14:11:45Z" user="Danidin9" uid="395588" lat="59.9422004" lon="30.3378571"/>
+ <node id="1711792335" visible="true" version="3" changeset="124538406" timestamp="2022-08-05T20:13:59Z" user="Anton Khorev" uid="437809" lat="59.9415861" lon="30.3360948"/>
+ <node id="1711792337" visible="true" version="5" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9416993" lon="30.3360113"/>
+ <node id="1711792373" visible="true" version="4" changeset="124538406" timestamp="2022-08-05T20:13:59Z" user="Anton Khorev" uid="437809" lat="59.9421146" lon="30.3376398">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1711792391" visible="true" version="5" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9423640" lon="30.3375284"/>
+ <node id="1711792395" visible="true" version="5" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9423312" lon="30.3377963"/>
+ <node id="1711792397" visible="true" version="4" changeset="124538406" timestamp="2022-08-05T20:13:59Z" user="Anton Khorev" uid="437809" lat="59.9425016" lon="30.3354595"/>
+ <node id="1711792398" visible="true" version="4" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9426196" lon="30.3362133"/>
+ <node id="1711792399" visible="true" version="3" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9427418" lon="30.3368463"/>
+ <node id="1711792400" visible="true" version="4" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9427753" lon="30.3370241"/>
+ <node id="1711792402" visible="true" version="4" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9428963" lon="30.3351889"/>
+ <node id="1711792403" visible="true" version="6" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9430216" lon="30.3359398"/>
+ <node id="1711792404" visible="true" version="3" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9431722" lon="30.3367490"/>
+ <node id="1711792405" visible="true" version="4" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9432550" lon="30.3372784"/>
+ <node id="1711792406" visible="true" version="7" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9433006" lon="30.3376528"/>
+ <node id="1711792408" visible="true" version="4" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433978" lon="30.3348339"/>
+ <node id="1711792409" visible="true" version="5" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9435372" lon="30.3355850"/>
+ <node id="1711792410" visible="true" version="4" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436792" lon="30.3363928"/>
+ <node id="1711792411" visible="true" version="4" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9438017" lon="30.3371128"/>
+ <node id="1711792430" visible="true" version="5" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9441220" lon="30.3366536"/>
+ <node id="1711792440" visible="true" version="7" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9441622" lon="30.3369336">
+  <tag k="access" v="private"/>
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="1711792442" visible="true" version="4" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9441721" lon="30.3370132"/>
+ <node id="1711792444" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9446495" lon="30.3339640"/>
+ <node id="1711792445" visible="true" version="6" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9447825" lon="30.3347235"/>
+ <node id="1711792447" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9448105" lon="30.3338495"/>
+ <node id="1711792448" visible="true" version="5" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9449233" lon="30.3355277"/>
+ <node id="1711792449" visible="true" version="6" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449433" lon="30.3346154"/>
+ <node id="1711792450" visible="true" version="5" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449153" lon="30.3360179"/>
+ <node id="1711792451" visible="true" version="4" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450323" lon="30.3366777"/>
+ <node id="1711792452" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9449766" lon="30.3359746"/>
+ <node id="1711792453" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9450413" lon="30.3361985"/>
+ <node id="1711792454" visible="true" version="4" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9450845" lon="30.3354190"/>
+ <node id="1711792455" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9450936" lon="30.3366343"/>
+ <node id="1711792457" visible="true" version="5" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9451504" lon="30.3368260"/>
+ <node id="1711792458" visible="true" version="5" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9451741" lon="30.3373698"/>
+ <node id="1711792465" visible="true" version="5" changeset="124865327" timestamp="2022-08-13T19:28:45Z" user="Anton Khorev" uid="437809" lat="59.9452813" lon="30.3335438"/>
+ <node id="1711792470" visible="true" version="5" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455294" lon="30.3362968"/>
+ <node id="1711792474" visible="true" version="5" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9454987" lon="30.3369090"/>
+ <node id="1711792476" visible="true" version="5" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9458352" lon="30.3367379"/>
+ <node id="1711792478" visible="true" version="6" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9457465" lon="30.3367864"/>
+ <node id="1711792480" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9458006" lon="30.3371370"/>
+ <node id="1711792483" visible="true" version="5" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9456886" lon="30.3357610"/>
+ <node id="1711792485" visible="true" version="5" changeset="124865327" timestamp="2022-08-13T19:28:45Z" user="Anton Khorev" uid="437809" lat="59.9456772" lon="30.3332609"/>
+ <node id="1711792487" visible="true" version="6" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9458641" lon="30.3367189"/>
+ <node id="1711792496" visible="true" version="6" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9459928" lon="30.3366367"/>
+ <node id="1711792499" visible="true" version="5" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9460787" lon="30.3354974"/>
+ <node id="1711792500" visible="true" version="5" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9461406" lon="30.3370065"/>
+ <node id="1711792501" visible="true" version="5" changeset="124865327" timestamp="2022-08-13T19:28:45Z" user="Anton Khorev" uid="437809" lat="59.9460591" lon="30.3329891"/>
+ <node id="1711792548" visible="true" version="5" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9462476" lon="30.3364416"/>
+ <node id="1711792602" visible="true" version="5" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9464738" lon="30.3352282"/>
+ <node id="1711792607" visible="true" version="5" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9466442" lon="30.3361415"/>
+ <node id="1711792611" visible="true" version="6" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9470082" lon="30.3364929"/>
+ <node id="1711792616" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9466761" lon="30.3325363"/>
+ <node id="1711792618" visible="true" version="7" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9469287" lon="30.3349200"/>
+ <node id="1711792621" visible="true" version="5" changeset="125744024" timestamp="2022-09-03T15:59:05Z" user="Anton Khorev" uid="437809" lat="59.9470446" lon="30.3358368"/>
+ <node id="1711792622" visible="true" version="5" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9471284" lon="30.3357846"/>
+ <node id="1711792625" visible="true" version="5" changeset="124865327" timestamp="2022-08-13T19:28:45Z" user="Anton Khorev" uid="437809" lat="59.9471851" lon="30.3347789"/>
+ <node id="1711792626" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9473788" lon="30.3356259"/>
+ <node id="1902111060" visible="true" version="5" changeset="124865327" timestamp="2022-08-13T19:28:45Z" user="Anton Khorev" uid="437809" lat="59.9476354" lon="30.3361928"/>
+ <node id="2078615494" visible="true" version="6" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447392" lon="30.3364407"/>
+ <node id="2078615495" visible="true" version="6" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447395" lon="30.3364757"/>
+ <node id="2078615507" visible="true" version="6" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447468" lon="30.3364106"/>
+ <node id="2078615511" visible="true" version="6" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447687" lon="30.3365256"/>
+ <node id="2078615514" visible="true" version="6" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447847" lon="30.3365224"/>
+ <node id="2078615516" visible="true" version="6" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447601" lon="30.3363916"/>
+ <node id="2078615518" visible="true" version="6" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448007" lon="30.3364995"/>
+ <node id="2078615520" visible="true" version="6" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447784" lon="30.3363872"/>
+ <node id="2078615524" visible="true" version="6" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448068" lon="30.3364375"/>
+ <node id="2078615525" visible="true" version="6" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448079" lon="30.3364659"/>
+ <node id="2078615531" visible="true" version="4" changeset="59408270" timestamp="2018-05-30T19:35:49Z" user="Anton Khorev" uid="437809" lat="59.9450315" lon="30.3367829"/>
+ <node id="2078615536" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9451199" lon="30.3363370"/>
+ <node id="2078615544" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9451999" lon="30.3367912"/>
+ <node id="2078615549" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9453767" lon="30.3361945"/>
+ <node id="2078615555" visible="true" version="4" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9454838" lon="30.3349985"/>
+ <node id="2078615556" visible="true" version="5" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9454401" lon="30.3365810"/>
+ <node id="2078615558" visible="true" version="3" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9455054" lon="30.3351182"/>
+ <node id="2078615559" visible="true" version="3" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9455242" lon="30.3352247"/>
+ <node id="2078615560" visible="true" version="4" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9455404" lon="30.3349564"/>
+ <node id="2078615564" visible="true" version="3" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9455824" lon="30.3351828"/>
+ <node id="2078615565" visible="true" version="4" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9455949" lon="30.3349162"/>
+ <node id="2078615566" visible="true" version="3" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9456172" lon="30.3350400"/>
+ <node id="2078615567" visible="true" version="3" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9456362" lon="30.3351437"/>
+ <node id="2562715066" visible="true" version="5" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447992" lon="30.3364094"/>
+ <node id="2562715068" visible="true" version="5" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447517" lon="30.3365114"/>
+ <node id="2978830917" visible="true" version="7" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9453411" lon="30.3366357">
+  <tag k="amenity" v="toilets"/>
+  <tag k="fee" v="yes"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="3128483006" visible="true" version="4" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9423028" lon="30.3375507"/>
+ <node id="3128483007" visible="true" version="3" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437991" lon="30.3375291"/>
+ <node id="3128483009" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454887" lon="30.3362685"/>
+ <node id="3128483010" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454888" lon="30.3362587"/>
+ <node id="3128483011" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454897" lon="30.3362500"/>
+ <node id="3128483012" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454897" lon="30.3362781"/>
+ <node id="3128483013" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454914" lon="30.3362418"/>
+ <node id="3128483014" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454916" lon="30.3362871"/>
+ <node id="3128483015" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454938" lon="30.3362344"/>
+ <node id="3128483016" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454945" lon="30.3362952"/>
+ <node id="3128483017" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454969" lon="30.3362281"/>
+ <node id="3128483018" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454980" lon="30.3363018"/>
+ <node id="3128483019" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455006" lon="30.3362230"/>
+ <node id="3128483020" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455023" lon="30.3363069"/>
+ <node id="3128483021" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455046" lon="30.3362193"/>
+ <node id="3128483022" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455069" lon="30.3363101"/>
+ <node id="3128483023" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455089" lon="30.3362173"/>
+ <node id="3128483024" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455118" lon="30.3363114"/>
+ <node id="3128483025" visible="true" version="6" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455119" lon="30.3362617">
+  <tag k="access" v="yes"/>
+  <tag k="leisure" v="playground"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="3128483026" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455133" lon="30.3362168"/>
+ <node id="3128483027" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455167" lon="30.3363106"/>
+ <node id="3128483028" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455177" lon="30.3362180"/>
+ <node id="3128483629" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455214" lon="30.3363078"/>
+ <node id="3128483630" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455219" lon="30.3362208"/>
+ <node id="3128483631" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455257" lon="30.3363031"/>
+ <node id="3128483632" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455259" lon="30.3362253"/>
+ <node id="3128483633" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455293" lon="30.3362312"/>
+ <node id="3128483634" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455322" lon="30.3362382"/>
+ <node id="3128483635" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455322" lon="30.3362896"/>
+ <node id="3128483636" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455343" lon="30.3362462"/>
+ <node id="3128483637" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455343" lon="30.3362816"/>
+ <node id="3128483638" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455356" lon="30.3362549"/>
+ <node id="3128483639" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455356" lon="30.3362729"/>
+ <node id="3128483640" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455360" lon="30.3362639"/>
+ <node id="3128483647" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9459069" lon="30.3366919"/>
+ <node id="3128483650" visible="true" version="5" changeset="124865327" timestamp="2022-08-13T19:28:45Z" user="Anton Khorev" uid="437809" lat="59.9464247" lon="30.3327240"/>
+ <node id="3128483652" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9472660" lon="30.3357019"/>
+ <node id="3128483653" visible="true" version="3" changeset="125744024" timestamp="2022-09-03T15:59:05Z" user="Anton Khorev" uid="437809" lat="59.9473434" lon="30.3363062"/>
+ <node id="3128483655" visible="true" version="3" changeset="125744024" timestamp="2022-09-03T15:59:05Z" user="Anton Khorev" uid="437809" lat="59.9475387" lon="30.3362088"/>
+ <node id="3165417135" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455155" lon="30.3350381"/>
+ <node id="3165417136" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455381" lon="30.3351674"/>
+ <node id="3165417137" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455815" lon="30.3349921"/>
+ <node id="3165417138" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9456041" lon="30.3351214"/>
+ <node id="3525571328" visible="true" version="4" changeset="125489033" timestamp="2022-08-28T17:56:00Z" user="Anton Khorev" uid="437809" lat="59.9454793" lon="30.3363610">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="no"/>
+ </node>
+ <node id="3525571329" visible="true" version="4" changeset="125489033" timestamp="2022-08-28T17:56:00Z" user="Anton Khorev" uid="437809" lat="59.9454733" lon="30.3361956">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="no"/>
+ </node>
+ <node id="3595282934" visible="true" version="7" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9455087" lon="30.3349281">
+  <tag k="artist_name" v="П. Баратта"/>
+  <tag k="artwork_type" v="bust"/>
+  <tag k="name" v="Аллегория солнца (Аполлон)"/>
+  <tag k="ref:okn" v="781610417890826"/>
+  <tag k="start_date" v="1717"/>
+  <tag k="tourism" v="artwork"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="3595282936" visible="true" version="7" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9451542" lon="30.3354302">
+  <tag k="artist_name" v="Неизвестный скульптор Италии"/>
+  <tag k="artwork_type" v="statue"/>
+  <tag k="description" v="Копия с античной статуи"/>
+  <tag k="name" v="Аполлон"/>
+  <tag k="ref:okn" v="781610417890136"/>
+  <tag k="start_date" v="1800"/>
+  <tag k="subject:wikidata" v="Q37340"/>
+  <tag k="subject:wikipedia" v="ru:Аполлон"/>
+  <tag k="tourism" v="artwork"/>
+ </node>
+ <node id="3595282941" visible="true" version="6" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9451354" lon="30.3353244">
+  <tag k="artist_name" v="Неизвестный скульптор Италии"/>
+  <tag k="artwork_type" v="statue"/>
+  <tag k="description" v="Копия античной статуи"/>
+  <tag k="name" v="Диана"/>
+  <tag k="ref:okn" v="781610417890186"/>
+  <tag k="start_date" v="1700"/>
+  <tag k="subject:wikidata" v="Q132543"/>
+  <tag k="subject:wikipedia" v="ru:Диана (богиня)"/>
+  <tag k="tourism" v="artwork"/>
+ </node>
+ <node id="3595282942" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454991" lon="30.3351776">
+  <tag k="artist_name" v="Д. Бонацца"/>
+  <tag k="artwork_type" v="statue"/>
+  <tag k="name" v="Закат"/>
+  <tag k="ref:okn" v="781610417890216"/>
+  <tag k="start_date" v="1717"/>
+  <tag k="tourism" v="artwork"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="3595282947" visible="true" version="6" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9453361" lon="30.3352923">
+  <tag k="artist_name" v="О. Маринали"/>
+  <tag k="artwork_type" v="bust"/>
+  <tag k="name" v="Марс, бог войны"/>
+  <tag k="name:en" v="Mars, God of war"/>
+  <tag k="ref:okn" v="781610417890686"/>
+  <tag k="start_date" v="1717"/>
+  <tag k="subject:wikidata" v="Q112"/>
+  <tag k="subject:wikipedia" v="ru:Марс (мифология)"/>
+  <tag k="tourism" v="artwork"/>
+ </node>
+ <node id="3595282955" visible="true" version="5" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454825" lon="30.3350869">
+  <tag k="artist_name" v="Д. Бонацца"/>
+  <tag k="artwork_type" v="statue"/>
+  <tag k="name" v="Ночь"/>
+  <tag k="ref:okn" v="781610417890326"/>
+  <tag k="start_date" v="1717"/>
+  <tag k="tourism" v="artwork"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="3595282960" visible="true" version="6" changeset="131478156" timestamp="2023-01-19T18:30:38Z" user="Miikul" uid="16111475" lat="59.9453196" lon="30.3351936">
+  <tag k="artist_name" v="Б. Модоло"/>
+  <tag k="artwork_type" v="bust"/>
+  <tag k="name" v="Сивилла Эритрейская"/>
+  <tag k="ref:okn" v="781610417890796"/>
+  <tag k="start_date" v="1717"/>
+  <tag k="subject:wikidata" v="Q1121944"/>
+  <tag k="subject:wikipedia" v="en:Erythraean Sibyl"/>
+  <tag k="tourism" v="artwork"/>
+ </node>
+ <node id="3595282983" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445402" lon="30.3363165"/>
+ <node id="3595282984" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445654" lon="30.3363393"/>
+ <node id="3595282985" visible="true" version="3" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446026" lon="30.3365558"/>
+ <node id="3595282986" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446228" lon="30.3367989"/>
+ <node id="3595282987" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446397" lon="30.3367718"/>
+ <node id="3595282988" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447267" lon="30.3362091"/>
+ <node id="3595282991" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447516" lon="30.3364663"/>
+ <node id="3595282992" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447517" lon="30.3364472"/>
+ <node id="3595284093" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447543" lon="30.3364799"/>
+ <node id="3595284094" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447553" lon="30.3364321"/>
+ <node id="3595284095" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447598" lon="30.3364917"/>
+ <node id="3595284096" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447609" lon="30.3364214"/>
+ <node id="3595284097" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447680" lon="30.3364991"/>
+ <node id="3595284098" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447692" lon="30.3364152"/>
+ <node id="3595284099" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447767" lon="30.3364155"/>
+ <node id="3595284100" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447772" lon="30.3364990"/>
+ <node id="3595284102" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447846" lon="30.3364223"/>
+ <node id="3595284103" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447862" lon="30.3364901"/>
+ <node id="3595284104" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447890" lon="30.3364302"/>
+ <node id="3595284105" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447920" lon="30.3364745"/>
+ <node id="3595284106" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447925" lon="30.3364426"/>
+ <node id="3595284107" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447938" lon="30.3364584"/>
+ <node id="3595284108" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448177" lon="30.3367123"/>
+ <node id="3595284112" visible="true" version="4" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9448875" lon="30.3359933"/>
+ <node id="3595284116" visible="true" version="5" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448946" lon="30.3360336">
+  <tag k="barrier" v="gate"/>
+  <tag k="foot" v="yes"/>
+ </node>
+ <node id="3595284117" visible="true" version="5" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448854" lon="30.3360816"/>
+ <node id="3595284120" visible="true" version="4" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449355" lon="30.3363616"/>
+ <node id="3595284124" visible="true" version="5" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449874" lon="30.3366540"/>
+ <node id="3595284125" visible="true" version="4" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450119" lon="30.3366840">
+  <tag k="barrier" v="gate"/>
+  <tag k="foot" v="yes"/>
+ </node>
+ <node id="3595284126" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9449906" lon="30.3359170"/>
+ <node id="3595284128" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9452019" lon="30.3360903"/>
+ <node id="4255789250" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9451471" lon="30.3364914"/>
+ <node id="4255789251" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9451973" lon="30.3364562"/>
+ <node id="4255789252" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9452501" lon="30.3367560"/>
+ <node id="4281708696" visible="true" version="5" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9451659" lon="30.3354402"/>
+ <node id="4281708704" visible="true" version="5" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9451611" lon="30.3354138"/>
+ <node id="4281708709" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9453425" lon="30.3352808"/>
+ <node id="4281708716" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9453252" lon="30.3352945"/>
+ <node id="4281708722" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9456478" lon="30.3357497"/>
+ <node id="4281708724" visible="true" version="4" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9451192" lon="30.3354715"/>
+ <node id="4281708730" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9452172" lon="30.3360406"/>
+ <node id="4281708739" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455090" lon="30.3352852"/>
+ <node id="4281708749" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9453469" lon="30.3353043"/>
+ <node id="4281708751" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455568" lon="30.3352515"/>
+ <node id="4281708755" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9453297" lon="30.3353176"/>
+ <node id="4281708756" visible="true" version="4" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454902" lon="30.3351754"/>
+ <node id="4350036490" visible="true" version="26" changeset="141361514" timestamp="2023-09-16T23:10:00Z" user="traveleditor" uid="8726248" lat="59.9450018" lon="30.3363282">
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Летний сад"/>
+  <tag k="opening_hours" v="We-Mo 10:00-22:00"/>
+  <tag k="wheelchair" v="yes"/>
+ </node>
+ <node id="5633230377" visible="true" version="1" changeset="59157229" timestamp="2018-05-21T17:11:04Z" user="Anton Khorev" uid="437809" lat="59.9471986" lon="30.3364065"/>
+ <node id="5641718557" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9462793" lon="30.3353599"/>
+ <node id="5648144328" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9438130" lon="30.3375038"/>
+ <node id="5648144331" visible="true" version="4" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449787" lon="30.3346770"/>
+ <node id="5648144333" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454691" lon="30.3363515"/>
+ <node id="5648144334" visible="true" version="3" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9457782" lon="30.3366293"/>
+ <node id="5648144335" visible="true" version="3" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9457058" lon="30.3367478"/>
+ <node id="5648144337" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454715" lon="30.3346839"/>
+ <node id="5648144338" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454475" lon="30.3366174"/>
+ <node id="5648144339" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454730" lon="30.3363290"/>
+ <node id="5648144340" visible="true" version="3" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9439798" lon="30.3375253"/>
+ <node id="5648144341" visible="true" version="2" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9453110" lon="30.3352045"/>
+ <node id="5648144343" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454632" lon="30.3346394"/>
+ <node id="5648144348" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454738" lon="30.3363722"/>
+ <node id="5648144350" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454899" lon="30.3361809"/>
+ <node id="5648144351" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454475" lon="30.3346506"/>
+ <node id="5648144352" visible="true" version="4" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9457850" lon="30.3366250">
+  <tag k="board_type" v="history"/>
+  <tag k="information" v="board"/>
+  <tag k="name" v="Боскет «Зеленые кабинеты»"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="5648144353" visible="true" version="3" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9454617" lon="30.3371281"/>
+ <node id="5648144354" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454963" lon="30.3363647"/>
+ <node id="5648144356" visible="true" version="4" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9438044" lon="30.3371989"/>
+ <node id="5648144358" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9452226" lon="30.3361126"/>
+ <node id="5648144360" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9453707" lon="30.3361610"/>
+ <node id="5648144364" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9453979" lon="30.3343746"/>
+ <node id="5648144366" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454037" lon="30.3344063"/>
+ <node id="5648144367" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454183" lon="30.3361058"/>
+ <node id="5648144370" visible="true" version="2" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9453239" lon="30.3351698"/>
+ <node id="5648144372" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455616" lon="30.3362013"/>
+ <node id="5648144375" visible="true" version="4" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9451168" lon="30.3354891">
+  <tag k="board_type" v="history"/>
+  <tag k="information" v="board"/>
+  <tag k="name" v="Коллекция скульптуры Летнего сада"/>
+  <tag k="name:en" v="The Summer Garden collection of sculpture"/>
+  <tag k="name:ru" v="Коллекция скульптуры Летнего сада"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="5648144376" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9452452" lon="30.3362491"/>
+ <node id="5648144377" visible="true" version="3" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9455057" lon="30.3369632"/>
+ <node id="5648144379" visible="true" version="4" changeset="125489033" timestamp="2022-08-28T17:56:00Z" user="Anton Khorev" uid="437809" lat="59.9455388" lon="30.3363521">
+  <tag k="board_type" v="history"/>
+  <tag k="information" v="board"/>
+  <tag k="name" v="Фонтан «Фаворитка»"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="5648144380" visible="true" version="3" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9450938" lon="30.3353300"/>
+ <node id="5648144381" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454869" lon="30.3368542"/>
+ <node id="5648144383" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455223" lon="30.3364046"/>
+ <node id="5648144387" visible="true" version="3" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9457519" lon="30.3366451"/>
+ <node id="5648144388" visible="true" version="3" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9456943" lon="30.3366794"/>
+ <node id="5648144389" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454188" lon="30.3343953"/>
+ <node id="5648144391" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455124" lon="30.3349120"/>
+ <node id="5648144392" visible="true" version="3" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9457655" lon="30.3371286"/>
+ <node id="5648144393" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9458063" lon="30.3366130"/>
+ <node id="5648144394" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455465" lon="30.3363419"/>
+ <node id="5648144395" visible="true" version="3" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9439770" lon="30.3374730"/>
+ <node id="5648144396" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455603" lon="30.3363031"/>
+ <node id="5648144397" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9452297" lon="30.3362342"/>
+ <node id="5648144399" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9454766" lon="30.3369035"/>
+ <node id="5648144400" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454516" lon="30.3349531"/>
+ <node id="5648144402" visible="true" version="3" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9451446" lon="30.3353217"/>
+ <node id="5648144404" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9456610" lon="30.3358176"/>
+ <node id="5648144406" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455123" lon="30.3361257"/>
+ <node id="5648144407" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455645" lon="30.3361743"/>
+ <node id="5648144408" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454788" lon="30.3361745"/>
+ <node id="5648144409" visible="true" version="3" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9451394" lon="30.3352960"/>
+ <node id="5648144411" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9452381" lon="30.3362066"/>
+ <node id="5648144412" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455359" lon="30.3361619"/>
+ <node id="5648144413" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454108" lon="30.3361691"/>
+ <node id="5648144414" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9451550" lon="30.3369429"/>
+ <node id="5648144416" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455846" lon="30.3362365"/>
+ <node id="5648144420" visible="true" version="3" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9452567" lon="30.3343876"/>
+ <node id="5648144822" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454758" lon="30.3350910"/>
+ <node id="5648144824" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454464" lon="30.3362880"/>
+ <node id="5648144829" visible="true" version="2" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9453066" lon="30.3351830"/>
+ <node id="5648144830" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454869" lon="30.3363778"/>
+ <node id="5648144832" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455596" lon="30.3361525"/>
+ <node id="5648144833" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454580" lon="30.3366742">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="5648144834" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9452438" lon="30.3368951"/>
+ <node id="5648144835" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454710" lon="30.3362275"/>
+ <node id="5648144836" visible="true" version="3" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9454704" lon="30.3369527">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="5648144837" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454682" lon="30.3361844"/>
+ <node id="5648144844" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454554" lon="30.3346946"/>
+ <node id="5648144845" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9451407" lon="30.3368585"/>
+ <node id="5648144846" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454670" lon="30.3367257"/>
+ <node id="5648144847" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454662" lon="30.3362091"/>
+ <node id="5648144849" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9451733" lon="30.3373492"/>
+ <node id="5648144851" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9454784" lon="30.3365529"/>
+ <node id="5648144852" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455525" lon="30.3363229"/>
+ <node id="5648144854" visible="true" version="3" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9454801" lon="30.3370560"/>
+ <node id="5648144856" visible="true" version="3" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9457251" lon="30.3368545"/>
+ <node id="5648144857" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9455468" lon="30.3361498"/>
+ <node id="5648144861" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9452341" lon="30.3362568">
+  <tag k="entrance" v="service"/>
+ </node>
+ <node id="5648144862" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9452418" lon="30.3362290">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="5648144865" visible="true" version="2" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9453284" lon="30.3351923"/>
+ <node id="5652382522" visible="true" version="3" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9446413" lon="30.3340559"/>
+ <node id="5652382523" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9432586" lon="30.3373596"/>
+ <node id="5652382525" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9432165" lon="30.3368626"/>
+ <node id="5652382526" visible="true" version="3" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448735" lon="30.3360511"/>
+ <node id="5652382527" visible="true" version="3" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9449234" lon="30.3356630"/>
+ <node id="5652382529" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9431719" lon="30.3365895"/>
+ <node id="5652382531" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9432823" lon="30.3373529"/>
+ <node id="5652382538" visible="true" version="3" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437599" lon="30.3370408"/>
+ <node id="5652382539" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437808" lon="30.3375109"/>
+ <node id="5652382541" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9449917" lon="30.3366894"/>
+ <node id="5652382543" visible="true" version="3" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9437829" lon="30.3375564"/>
+ <node id="5652382544" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433857" lon="30.3349373"/>
+ <node id="5652382547" visible="true" version="3" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9425159" lon="30.3355452"/>
+ <node id="5652382548" visible="true" version="3" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9448825" lon="30.3354279"/>
+ <node id="5652382550" visible="true" version="3" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450345" lon="30.3363013">
+  <tag k="entrance" v="main"/>
+ </node>
+ <node id="5652382554" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9438192" lon="30.3370243"/>
+ <node id="5652382555" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434433" lon="30.3348921"/>
+ <node id="5652382557" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9431264" lon="30.3357660"/>
+ <node id="5652382559" visible="true" version="3" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9447760" lon="30.3348173"/>
+ <node id="5652382560" visible="true" version="3" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9435031" lon="30.3363544"/>
+ <node id="5652382561" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9432868" lon="30.3376322"/>
+ <node id="5652382562" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9449616" lon="30.3358859"/>
+ <node id="5652382563" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9441126" lon="30.3367045"/>
+ <node id="5652382564" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9435754" lon="30.3356309"/>
+ <node id="5652382568" visible="true" version="3" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9448774" lon="30.3359565">
+  <tag k="board_type" v="history"/>
+  <tag k="check_date" v="2022-07-11"/>
+  <tag k="information" v="board"/>
+  <tag k="name" v="Малая оранжерея, Красный сад"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="5652382569" visible="true" version="3" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9442929" lon="30.3351284">
+  <tag k="board_type" v="history"/>
+  <tag k="check_date" v="2022-07-30"/>
+  <tag k="information" v="board"/>
+  <tag k="name" v="Лабиринт"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="5652382572" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9448571" lon="30.3359610"/>
+ <node id="5652382573" visible="true" version="3" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9441450" lon="30.3369391"/>
+ <node id="5652382575" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9435214" lon="30.3356765"/>
+ <node id="5652382581" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9441445" lon="30.3366814"/>
+ <node id="5652382582" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437804" lon="30.3374516"/>
+ <node id="5652382583" visible="true" version="3" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9423387" lon="30.3377722"/>
+ <node id="5652382584" visible="true" version="4" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9448828" lon="30.3354022">
+  <tag k="board_type" v="history"/>
+  <tag k="information" v="board"/>
+  <tag k="name" v="Поперечный канал и «шутишный» мост"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="5652382586" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9437342" lon="30.3365076"/>
+ <node id="5652382590" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9441800" lon="30.3369281"/>
+ <node id="5652382592" visible="true" version="2" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9447464" lon="30.3346545"/>
+ <node id="5652382593" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9435513" lon="30.3354852"/>
+ <node id="5652382595" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9441283" lon="30.3366925">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="5652382599" visible="true" version="2" changeset="124538406" timestamp="2022-08-05T20:13:59Z" user="Anton Khorev" uid="437809" lat="59.9423202" lon="30.3376163"/>
+ <node id="5652382600" visible="true" version="3" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9432675" lon="30.3371797"/>
+ <node id="5652382601" visible="true" version="3" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437735" lon="30.3372114"/>
+ <node id="5652382602" visible="true" version="3" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436265" lon="30.3362723"/>
+ <node id="5652382604" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437573" lon="30.3375139"/>
+ <node id="5652382606" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437558" lon="30.3374674"/>
+ <node id="5652382609" visible="true" version="3" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436825" lon="30.3362399"/>
+ <node id="5652382612" visible="true" version="3" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9420385" lon="30.3357752"/>
+ <node id="5652382615" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9431609" lon="30.3359355"/>
+ <node id="5652382616" visible="true" version="4" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9433129" lon="30.3376266"/>
+ <node id="5652382617" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9430732" lon="30.3360535"/>
+ <node id="5652382618" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9436727" lon="30.3365527"/>
+ <node id="5652382620" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437793" lon="30.3374644"/>
+ <node id="5652382623" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434916" lon="30.3355196"/>
+ <node id="5652382625" visible="true" version="3" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9423210" lon="30.3378236"/>
+ <node id="9934131049" visible="true" version="1" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9452108" lon="30.3361232"/>
+ <node id="9934131050" visible="true" version="1" changeset="124530985" timestamp="2022-08-05T16:21:09Z" user="Anton Khorev" uid="437809" lat="59.9469510" lon="30.3358974"/>
+ <node id="9934469898" visible="true" version="1" changeset="124538406" timestamp="2022-08-05T20:13:59Z" user="Anton Khorev" uid="437809" lat="59.9421561" lon="30.3376033"/>
+ <node id="9934469901" visible="true" version="1" changeset="124538406" timestamp="2022-08-05T20:13:59Z" user="Anton Khorev" uid="437809" lat="59.9422155" lon="30.3378427"/>
+ <node id="9934472628" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9422326" lon="30.3378325"/>
+ <node id="9937873043" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9442130" lon="30.3366325"/>
+ <node id="9937873051" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9432712" lon="30.3373561"/>
+ <node id="9937873053" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9449324" lon="30.3347055"/>
+ <node id="9937873055" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9440514" lon="30.3367527"/>
+ <node id="9937873064" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9425126" lon="30.3374743"/>
+ <node id="9937873066" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9440771" lon="30.3366879"/>
+ <node id="9937873068" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9440466" lon="30.3365326"/>
+ <node id="9937873071" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9449605" lon="30.3354189"/>
+ <node id="9937873077" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9449196" lon="30.3354052"/>
+ <node id="9937873086" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9450717" lon="30.3355062"/>
+ <node id="9937873094" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9439954" lon="30.3364974"/>
+ <node id="9937873104" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9441676" lon="30.3363698"/>
+ <node id="9937873108" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9450568" lon="30.3361550"/>
+ <node id="9937875619" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9450467" lon="30.3353579"/>
+ <node id="9937875620" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9441677" lon="30.3366184"/>
+ <node id="9937875637" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9449909" lon="30.3355612"/>
+ <node id="9937875639" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9449605" lon="30.3356290"/>
+ <node id="9937875648" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9441393" lon="30.3364634"/>
+ <node id="9937875655" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809" lat="59.9451741" lon="30.3360739"/>
+ <node id="9937875658" visible="true" version="2" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9448147" lon="30.3347896"/>
+ <node id="9939975232" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433102" lon="30.3361835">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975235" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433176" lon="30.3367823">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975236" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436658" lon="30.3365574">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975240" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436631" lon="30.3372386">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939975241" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436317" lon="30.3365298">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975242" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433112" lon="30.3358183">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939975243" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434715" lon="30.3361745">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975245" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433879" lon="30.3362421">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975247" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9435343" lon="30.3371307">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975248" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9435958" lon="30.3365552">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975249" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9439674" lon="30.3375524"/>
+ <node id="9939975250" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437818" lon="30.3375286"/>
+ <node id="9939975251" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437527" lon="30.3369645">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975252" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433045" lon="30.3367907">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939975254" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436979" lon="30.3366456">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939975255" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433255" lon="30.3356605">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975256" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436201" lon="30.3365782">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975257" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9432956" lon="30.3351317">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975260" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437579" lon="30.3372062">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939975262" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437337" lon="30.3375357"/>
+ <node id="9939975263" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9435582" lon="30.3358434">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975265" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9435611" lon="30.3362658">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975267" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433438" lon="30.3367761">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975269" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434449" lon="30.3366516">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975270" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436193" lon="30.3363080">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975271" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433338" lon="30.3350071">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975273" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437878" lon="30.3372062"/>
+ <node id="9939975275" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433471" lon="30.3348713"/>
+ <node id="9939975276" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434808" lon="30.3355505">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975278" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434531" lon="30.3364044">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975279" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9435034" lon="30.3356611">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975282" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433230" lon="30.3358083">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975285" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433171" lon="30.3373325">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939975286" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434852" lon="30.3354258">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975288" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434755" lon="30.3366708">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939975289" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434406" lon="30.3362757">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975291" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9432943" lon="30.3374581">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="9939975294" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434892" lon="30.3366587">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975295" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434362" lon="30.3364199">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939975296" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434469" lon="30.3363039">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939975298" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434899" lon="30.3354536">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939975299" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433463" lon="30.3362085">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975300" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434871" lon="30.3363074">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975301" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433024" lon="30.3351772">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975302" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434816" lon="30.3356939">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975303" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436472" lon="30.3370887">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939975306" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433368" lon="30.3365056">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975307" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9439640" lon="30.3374983"/>
+ <node id="9939975308" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9435547" lon="30.3358268">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939975309" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434186" lon="30.3350601">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975310" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434476" lon="30.3355602">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939975311" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9432971" lon="30.3356643">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975314" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436122" lon="30.3361478">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939975315" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434404" lon="30.3355793">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939975316" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9435267" lon="30.3362449">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939980919" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433107" lon="30.3351495">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939980923" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436522" lon="30.3372403">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939980924" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433312" lon="30.3371716">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939980925" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9432987" lon="30.3365339">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939980926" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434119" lon="30.3350335">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939980929" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436932" lon="30.3366213">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939980930" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436924" lon="30.3370937">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939980933" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437440" lon="30.3372088">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939980934" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434578" lon="30.3355532">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939980935" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434482" lon="30.3356961">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939980936" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433024" lon="30.3360478">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939980938" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433122" lon="30.3360553">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939980940" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436344" lon="30.3370911">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939980941" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437315" lon="30.3374583"/>
+ <node id="9939980942" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437586" lon="30.3369881">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939980943" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433171" lon="30.3371765">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939980945" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437475" lon="30.3370707">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939980948" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436055" lon="30.3365877">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939980950" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434208" lon="30.3357174">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939980951" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9432858" lon="30.3356718">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939980952" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434615" lon="30.3363141">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939980954" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433482" lon="30.3358010">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939980955" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9432929" lon="30.3358050">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939980957" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434758" lon="30.3371369">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939980958" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434877" lon="30.3371326">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939980959" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434603" lon="30.3361626">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939980960" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433897" lon="30.3356135">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939980961" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438012" lon="30.3375796"/>
+ <node id="9939980963" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433023" lon="30.3373367">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9939980964" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9437209" lon="30.3370837">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939980965" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434923" lon="30.3356870">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939980966" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9436161" lon="30.3361685">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9939980967" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9434326" lon="30.3371666">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9939980968" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809" lat="59.9433722" lon="30.3364790">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699353" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9438186" lon="30.3354505">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945699354" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451181" lon="30.3365111"/>
+ <node id="9945699356" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451188" lon="30.3364433">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699358" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9442009" lon="30.3359188">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699359" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451645" lon="30.3362603">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699360" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445055" lon="30.3356921">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945699364" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449388" lon="30.3348536">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699365" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9444021" lon="30.3357699">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945699366" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9447499" lon="30.3348241">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945699367" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9440911" lon="30.3351265">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945699369" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9436458" lon="30.3354353">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945699370" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438289" lon="30.3361741">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699371" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449125" lon="30.3352423">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699372" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9442791" lon="30.3358462">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945699373" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450060" lon="30.3357749">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699374" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450008" lon="30.3355852">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699375" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446254" lon="30.3356095">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945699376" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451864" lon="30.3368042"/>
+ <node id="9945699377" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450482" lon="30.3359940">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699378" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9441652" lon="30.3359231">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945699379" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451922" lon="30.3362395">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699381" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446127" lon="30.3356209">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945699383" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9444154" lon="30.3357585">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945699384" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9439917" lon="30.3353346">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945699386" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449201" lon="30.3347466">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699387" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9438024" lon="30.3354653">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945699388" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450372" lon="30.3359298">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699389" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451567" lon="30.3366434">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699390" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451037" lon="30.3363575">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699391" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9444207" lon="30.3348935">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945699392" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9435545" lon="30.3347551">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699393" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9443553" lon="30.3350914">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945699394" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451248" lon="30.3365494"/>
+ <node id="9945699396" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450674" lon="30.3362191"/>
+ <node id="9945699398" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9441760" lon="30.3359142">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945699400" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9444508" lon="30.3359560">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699401" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9443423" lon="30.3349455">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945699403" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9435871" lon="30.3347322">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699404" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9448781" lon="30.3347796">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699407" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451146" lon="30.3363330"/>
+ <node id="9945699409" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451745" lon="30.3367652">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945699410" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9435896" lon="30.3356117">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945699411" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9444063" lon="30.3349031">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945699412" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9441239" lon="30.3352504">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945699413" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451803" lon="30.3367014"/>
+ <node id="9945699415" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9447271" lon="30.3346792">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945699416" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438809" lon="30.3361155">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710118" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451500" lon="30.3365317"/>
+ <node id="9945710119" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449609" lon="30.3349611">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710121" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9435232" lon="30.3346837"/>
+ <node id="9945710122" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9442645" lon="30.3358557">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710123" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9437008" lon="30.3355342">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710125" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9452170" lon="30.3362600"/>
+ <node id="9945710126" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450934" lon="30.3357103">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710129" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9443860" lon="30.3357960">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710130" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451675" lon="30.3367848"/>
+ <node id="9945710131" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9435797" lon="30.3356193">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710132" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9435698" lon="30.3354839">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710135" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9436611" lon="30.3354223">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710136" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9436900" lon="30.3355423">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710138" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9445779" lon="30.3349387">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710139" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450140" lon="30.3352712">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710140" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451598" lon="30.3367511"/>
+ <node id="9945710141" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9439533" lon="30.3352220">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710142" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451857" lon="30.3367319"/>
+ <node id="9945710143" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9436975" lon="30.3362621">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710144" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451773" lon="30.3368005"/>
+ <node id="9945710145" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9437117" lon="30.3362325">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710146" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450743" lon="30.3356005">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710147" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9444181" lon="30.3350488">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710148" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450791" lon="30.3360549">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710152" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438680" lon="30.3361263">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710153" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9436402" lon="30.3346948">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710154" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9444329" lon="30.3350347">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710156" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9443673" lon="30.3350820">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710157" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9437808" lon="30.3353410">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710158" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9434994" lon="30.3347942">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710161" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449512" lon="30.3362646"/>
+ <node id="9945710163" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9448611" lon="30.3349433">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710164" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451429" lon="30.3362022">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710165" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449809" lon="30.3350752">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710166" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9437014" lon="30.3362393">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710167" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451947" lon="30.3361311"/>
+ <node id="9945710168" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451432" lon="30.3364935"/>
+ <node id="9945710170" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445156" lon="30.3356845">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710171" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9448388" lon="30.3354665">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710172" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9441313" lon="30.3359710">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710174" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9448367" lon="30.3348068">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710175" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451237" lon="30.3358933">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710176" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449829" lon="30.3364434"/>
+ <node id="9945710178" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451195" lon="30.3362299">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710179" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9445580" lon="30.3348001">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710180" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9441392" lon="30.3352367">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710182" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9439402" lon="30.3352325">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710184" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449783" lon="30.3353504">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710185" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450593" lon="30.3358236">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710186" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451841" lon="30.3361870">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710187" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9447386" lon="30.3355370">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710188" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451181" lon="30.3362839">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710189" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449910" lon="30.3351454">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710190" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9436725" lon="30.3346721">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710191" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9447543" lon="30.3355248">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710192" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451681" lon="30.3361494">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710195" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451417" lon="30.3365637">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710196" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448779" lon="30.3354645">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710197" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451544" lon="30.3367198"/>
+ <node id="9945710198" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9437968" lon="30.3353309">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710199" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9445433" lon="30.3348124">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710201" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450676" lon="30.3361097">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710202" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9435804" lon="30.3354754">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710204" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9447603" lon="30.3348141">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710205" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449586" lon="30.3362590"/>
+ <node id="9945710206" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9447144" lon="30.3346878">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710207" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9439777" lon="30.3353463">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710208" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449884" lon="30.3352229">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710209" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449782" lon="30.3351704">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710210" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9441050" lon="30.3351132">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710212" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451687" lon="30.3362148">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710213" visible="true" version="2" changeset="129963786" timestamp="2022-12-11T14:12:13Z" user="Anton Khorev" uid="437809" lat="59.9451282" lon="30.3356017">
+  <tag k="amenity" v="fast_food"/>
+  <tag k="opening_hours" v="Oct-Apr: off"/>
+ </node>
+ <node id="9945710215" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9450873" lon="30.3362480">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710216" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9448951" lon="30.3351248">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710217" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9448258" lon="30.3354753">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710218" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9445920" lon="30.3349285">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9945710219" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449899" lon="30.3364382"/>
+ <node id="9945710220" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9443303" lon="30.3349546">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9945710221" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451291" lon="30.3361764">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710222" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9449977" lon="30.3351833">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9945710223" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9451979" lon="30.3368004"/>
+ <node id="9945710224" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809" lat="59.9437474" lon="30.3362294">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922139" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9444507" lon="30.3368840">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922140" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9439157" lon="30.3363623">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947922141" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9443343" lon="30.3369242">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922142" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9440618" lon="30.3362578">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947922143" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447936" lon="30.3363726"/>
+ <node id="9947922144" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9439107" lon="30.3371606">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947922145" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448172" lon="30.3364591"/>
+ <node id="9947922146" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447574" lon="30.3361545">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922147" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445556" lon="30.3359031">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947922148" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9444293" lon="30.3359964">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947922149" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448618" lon="30.3361397"/>
+ <node id="9947922150" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447446" lon="30.3363842"/>
+ <node id="9947922151" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446233" lon="30.3363127">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922152" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449484" lon="30.3366054"/>
+ <node id="9947922153" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449085" lon="30.3356274">
+  <tag k="information" v="guidepost"/>
+  <tag k="tourism" v="information"/>
+ </node>
+ <node id="9947922154" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449111" lon="30.3363055"/>
+ <node id="9947922155" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447268" lon="30.3364546"/>
+ <node id="9947922156" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445920" lon="30.3363958"/>
+ <node id="9947922157" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447271" lon="30.3362869"/>
+ <node id="9947922158" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448023" lon="30.3363881"/>
+ <node id="9947922159" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9450022" lon="30.3366968">
+  <tag k="man_made" v="planter"/>
+ </node>
+ <node id="9947922160" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446286" lon="30.3366042"/>
+ <node id="9947922161" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447314" lon="30.3364157"/>
+ <node id="9947922162" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438982" lon="30.3371646">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947922163" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449015" lon="30.3360191">
+  <tag k="man_made" v="planter"/>
+ </node>
+ <node id="9947922164" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447827" lon="30.3363651"/>
+ <node id="9947922165" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447727" lon="30.3357281">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922166" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447711" lon="30.3363648"/>
+ <node id="9947922167" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445500" lon="30.3356842">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922168" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449671" lon="30.3363541">
+  <tag k="entrance" v="service"/>
+ </node>
+ <node id="9947922169" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449013" lon="30.3356668">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947922170" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447631" lon="30.3362188"/>
+ <node id="9947922171" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446408" lon="30.3365611"/>
+ <node id="9947922172" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447577" lon="30.3369393">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947922173" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9443732" lon="30.3370395">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947922174" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9444247" lon="30.3363542"/>
+ <node id="9947922175" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9437303" lon="30.3364589">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922176" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448809" lon="30.3365550">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922177" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9444177" lon="30.3368708">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947922178" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9440772" lon="30.3360052">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922179" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447920" lon="30.3366496"/>
+ <node id="9947922180" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9441534" lon="30.3361723">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922181" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448133" lon="30.3365022"/>
+ <node id="9947922182" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445815" lon="30.3358733">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922183" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447502" lon="30.3365394"/>
+ <node id="9947922184" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447481" lon="30.3367504">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="no"/>
+ </node>
+ <node id="9947922185" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446474" lon="30.3356199">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922186" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9442059" lon="30.3361577">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947922187" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447531" lon="30.3362646"/>
+ <node id="9947922188" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447622" lon="30.3362456"/>
+ <node id="9947922189" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9440193" lon="30.3360446">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922190" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446872" lon="30.3357880">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922191" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449548" lon="30.3367437">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922192" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9441292" lon="30.3362148">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947922193" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447415" lon="30.3369421">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947922194" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446404" lon="30.3365897"/>
+ <node id="9947922195" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9444839" lon="30.3364800"/>
+ <node id="9947922196" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449603" lon="30.3363158"/>
+ <node id="9947922197" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447736" lon="30.3367673">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947922198" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9441140" lon="30.3362269">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947922199" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447952" lon="30.3361221">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="no"/>
+ </node>
+ <node id="9947922200" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447809" lon="30.3366668"/>
+ <node id="9947922201" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9444157" lon="30.3360096">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947922202" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9444032" lon="30.3368759">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947922203" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448853" lon="30.3361599"/>
+ <node id="9947922204" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9444523" lon="30.3357508">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922205" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9443170" lon="30.3360777">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947922206" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447737" lon="30.3365473"/>
+ <node id="9947922207" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9437509" lon="30.3364798">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947922208" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447790" lon="30.3366953"/>
+ <node id="9947922209" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446077" lon="30.3364850"/>
+ <node id="9947922210" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445417" lon="30.3359173">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947922211" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9443871" lon="30.3360049">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947922212" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447355" lon="30.3365058"/>
+ <node id="9947922213" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9439523" lon="30.3375295"/>
+ <node id="9947922214" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448470" lon="30.3366704"/>
+ <node id="9947922215" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446239" lon="30.3364851"/>
+ <node id="9947922216" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445119" lon="30.3359157">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959617" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446317" lon="30.3358333">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959618" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448988" lon="30.3363245"/>
+ <node id="9947959619" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445254" lon="30.3357010">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959620" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445836" lon="30.3365696"/>
+ <node id="9947959621" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447371" lon="30.3363988"/>
+ <node id="9947959622" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448195" lon="30.3366340"/>
+ <node id="9947959623" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449534" lon="30.3364055"/>
+ <node id="9947959624" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447610" lon="30.3367703">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947959625" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9450258" lon="30.3366887">
+  <tag k="man_made" v="planter"/>
+ </node>
+ <node id="9947959626" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446033" lon="30.3363469"/>
+ <node id="9947959627" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9444752" lon="30.3362355"/>
+ <node id="9947959628" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446462" lon="30.3367043"/>
+ <node id="9947959629" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9444954" lon="30.3357214">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959630" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447169" lon="30.3355731">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959631" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447926" lon="30.3357398">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947959632" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448373" lon="30.3366403"/>
+ <node id="9947959633" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9443330" lon="30.3360647">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947959634" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446157" lon="30.3364755">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959635" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446729" lon="30.3358225">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947959636" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449072" lon="30.3367031">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="no"/>
+ </node>
+ <node id="9947959637" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446023" lon="30.3363752"/>
+ <node id="9947959638" visible="true" version="2" changeset="129963786" timestamp="2022-12-11T14:12:13Z" user="Anton Khorev" uid="437809" lat="59.9436047" lon="30.3362725">
+  <tag k="amenity" v="fast_food"/>
+  <tag k="opening_hours" v="Oct-Apr: off"/>
+ </node>
+ <node id="9947959639" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438687" lon="30.3363669">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959640" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9440453" lon="30.3362698">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947959642" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9440889" lon="30.3362233">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959643" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438546" lon="30.3370293">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947959644" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449457" lon="30.3366343"/>
+ <node id="9947959645" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445756" lon="30.3368505">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959646" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9444221" lon="30.3357714">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959647" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438539" lon="30.3361571">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959648" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9439511" lon="30.3360910">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959649" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448007" lon="30.3365298"/>
+ <node id="9947959650" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447420" lon="30.3365240"/>
+ <node id="9947959651" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447128" lon="30.3362877"/>
+ <node id="9947959652" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448841" lon="30.3360324">
+  <tag k="man_made" v="planter"/>
+ </node>
+ <node id="9947959654" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446590" lon="30.3358322">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947959655" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438556" lon="30.3375710"/>
+ <node id="9947959656" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445514" lon="30.3363817">
+  <tag k="barrier" v="gate"/>
+ </node>
+ <node id="9947959657" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449738" lon="30.3363918"/>
+ <node id="9947959658" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447166" lon="30.3357688">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959659" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449396" lon="30.3363301"/>
+ <node id="9947959660" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448055" lon="30.3357262">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947959661" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447280" lon="30.3364369"/>
+ <node id="9947959662" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446342" lon="30.3365087"/>
+ <node id="9947959663" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438675" lon="30.3370558">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959664" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448166" lon="30.3364800"/>
+ <node id="9947959665" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9439164" lon="30.3375614"/>
+ <node id="9947959666" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449344" lon="30.3364379"/>
+ <node id="9947959667" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9441916" lon="30.3361699">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947959668" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448072" lon="30.3365177"/>
+ <node id="9947959669" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9440595" lon="30.3370056">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959670" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9437620" lon="30.3364700">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947959671" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9439004" lon="30.3363761">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947959672" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446102" lon="30.3368375">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959673" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448083" lon="30.3364064"/>
+ <node id="9947959674" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449837" lon="30.3367437">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959675" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446615" lon="30.3367107"/>
+ <node id="9947959676" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445615" lon="30.3363933">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959677" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448896" lon="30.3356732">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947959678" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446710" lon="30.3367352"/>
+ <node id="9947959679" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449154" lon="30.3364393"/>
+ <node id="9947959680" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438891" lon="30.3361331">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959681" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9446382" lon="30.3362491">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="no"/>
+ </node>
+ <node id="9947959682" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9451571" lon="30.3369049">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959683" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438168" lon="30.3375535"/>
+ <node id="9947959684" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448680" lon="30.3361817">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959685" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449037" lon="30.3364093"/>
+ <node id="9947959686" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448708" lon="30.3361612"/>
+ <node id="9947959687" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448232" lon="30.3355014">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959688" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438403" lon="30.3370348">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9947959689" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447032" lon="30.3362668"/>
+ <node id="9947959690" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9438210" lon="30.3364005">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959691" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9443890" lon="30.3370352">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9947959692" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449606" lon="30.3365860"/>
+ <node id="9947959693" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447610" lon="30.3365466"/>
+ <node id="9947959694" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9445089" lon="30.3366115"/>
+ <node id="9947959695" visible="true" version="2" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9460593" lon="30.3370376"/>
+ <node id="9947959696" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9447230" lon="30.3367567">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959697" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9442377" lon="30.3369521">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9947959698" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9448963" lon="30.3363555"/>
+ <node id="9947959699" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809" lat="59.9449003" lon="30.3367659">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9970569920" visible="true" version="1" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9454564" lon="30.3349585"/>
+ <node id="9970569922" visible="true" version="1" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9455112" lon="30.3352773"/>
+ <node id="9970569930" visible="true" version="1" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9451660" lon="30.3357776">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9970569952" visible="true" version="1" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9454954" lon="30.3349347">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9970569988" visible="true" version="1" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9455363" lon="30.3352593"/>
+ <node id="9970570006" visible="true" version="1" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9454873" lon="30.3349372"/>
+ <node id="9970570037" visible="true" version="1" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9455007" lon="30.3352160"/>
+ <node id="9970570065" visible="true" version="2" changeset="129963786" timestamp="2022-12-11T14:12:13Z" user="Anton Khorev" uid="437809" lat="59.9455309" lon="30.3348412">
+  <tag k="amenity" v="fast_food"/>
+  <tag k="opening_hours" v="Oct-Apr: off"/>
+ </node>
+ <node id="9970570068" visible="true" version="1" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9451610" lon="30.3357535">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9970570071" visible="true" version="1" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9454756" lon="30.3350639"/>
+ <node id="9970570080" visible="true" version="1" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809" lat="59.9455394" lon="30.3352523">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9983808246" visible="true" version="1" changeset="125489033" timestamp="2022-08-28T17:56:00Z" user="Anton Khorev" uid="437809" lat="59.9455134" lon="30.3361438">
+  <tag k="man_made" v="planter"/>
+ </node>
+ <node id="9983808267" visible="true" version="2" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9457480" lon="30.3366384"/>
+ <node id="9983808291" visible="true" version="1" changeset="125489033" timestamp="2022-08-28T17:56:00Z" user="Anton Khorev" uid="437809" lat="59.9454537" lon="30.3362859">
+  <tag k="man_made" v="planter"/>
+ </node>
+ <node id="9983809164" visible="true" version="2" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9457616" lon="30.3366046"/>
+ <node id="9983809171" visible="true" version="1" changeset="125489033" timestamp="2022-08-28T17:56:00Z" user="Anton Khorev" uid="437809" lat="59.9455214" lon="30.3363926">
+  <tag k="man_made" v="planter"/>
+ </node>
+ <node id="9983809189" visible="true" version="1" changeset="125489033" timestamp="2022-08-28T17:56:00Z" user="Anton Khorev" uid="437809" lat="59.9455272" lon="30.3368611">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9986660382" visible="true" version="1" changeset="125536233" timestamp="2022-08-29T18:25:31Z" user="Anton Khorev" uid="437809" lat="59.9433206" lon="30.3348244"/>
+ <node id="9995529256" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9455334" lon="30.3365134"/>
+ <node id="9995529272" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9453500" lon="30.3367457">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9995529292" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9454712" lon="30.3367924">
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="yes"/>
+ </node>
+ <node id="9995529294" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9453275" lon="30.3367016">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="9995529308" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9452684" lon="30.3368045">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9995581521" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9453760" lon="30.3366677">
+  <tag k="entrance" v="yes"/>
+ </node>
+ <node id="9995581524" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9453606" lon="30.3367884">
+  <tag k="natural" v="tree"/>
+ </node>
+ <node id="9995581525" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9454223" lon="30.3366351">
+  <tag k="entrance" v="service"/>
+ </node>
+ <node id="9995581534" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9453632" lon="30.3361189"/>
+ <node id="9995581541" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9471941" lon="30.3363771"/>
+ <node id="9995581554" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9453970" lon="30.3366528">
+  <tag k="entrance" v="service"/>
+ </node>
+ <node id="9995581560" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9454674" lon="30.3367659">
+  <tag k="amenity" v="waste_basket"/>
+ </node>
+ <node id="9995581564" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809" lat="59.9455869" lon="30.3368056"/>
+ <node id="9997912218" visible="true" version="1" changeset="125744024" timestamp="2022-09-03T15:59:05Z" user="Anton Khorev" uid="437809" lat="59.9476010" lon="30.3361777"/>
+ <node id="10829900773" visible="true" version="1" changeset="135196313" timestamp="2023-04-21T14:23:58Z" user="mini-me" uid="3846961" lat="59.9438189" lon="30.3375979"/>
+ <node id="10829900774" visible="true" version="1" changeset="135196313" timestamp="2023-04-21T14:23:58Z" user="mini-me" uid="3846961" lat="59.9439544" lon="30.3375780"/>
+ <way id="159079282" visible="true" version="13" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="782103391"/>
+  <nd ref="1711792400"/>
+  <nd ref="1711792404"/>
+  <nd ref="1711792410"/>
+  <nd ref="1711792448"/>
+  <nd ref="1711792454"/>
+  <nd ref="2078615558"/>
+  <tag k="highway" v="footway"/>
+  <tag k="name" v="Главная аллея"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="159079288" visible="true" version="19" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="1711792626"/>
+  <nd ref="3128483652"/>
+  <nd ref="1711792622"/>
+  <nd ref="1711792621"/>
+  <nd ref="9934131050"/>
+  <nd ref="1711792607"/>
+  <nd ref="1711792548"/>
+  <nd ref="1711792496"/>
+  <nd ref="3128483647"/>
+  <nd ref="1711792487"/>
+  <nd ref="1711792476"/>
+  <nd ref="1711792478"/>
+  <nd ref="1711792474"/>
+  <nd ref="5648144399"/>
+  <nd ref="1711792457"/>
+  <nd ref="2078615531"/>
+  <nd ref="1711792442"/>
+  <nd ref="1711792411"/>
+  <nd ref="1711792405"/>
+  <nd ref="9937873064"/>
+  <nd ref="1711792391"/>
+  <nd ref="3128483006"/>
+  <nd ref="9934469898"/>
+  <nd ref="1711792373"/>
+  <tag k="highway" v="footway"/>
+  <tag k="name" v="Хозяйственная аллея"/>
+  <tag k="smoothness" v="intermediate"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="159079297" visible="true" version="7" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="1711792408"/>
+  <nd ref="1711792409"/>
+  <nd ref="1711792410"/>
+  <nd ref="1711792411"/>
+  <tag k="check_date:surface" v="2022-07-11"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="159079313" visible="true" version="7" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="1711792444"/>
+  <nd ref="1711792445"/>
+  <nd ref="1711792448"/>
+  <nd ref="3595284126"/>
+  <nd ref="1711792453"/>
+  <nd ref="1711792457"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="159079316" visible="true" version="16" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="1711792616"/>
+  <nd ref="3128483650"/>
+  <nd ref="1711792501"/>
+  <nd ref="1711792485"/>
+  <nd ref="1711792465"/>
+  <nd ref="1711792447"/>
+  <nd ref="1711792444"/>
+  <nd ref="1711792408"/>
+  <nd ref="9939975275"/>
+  <nd ref="1711792402"/>
+  <nd ref="1711792397"/>
+  <nd ref="5652382612"/>
+  <nd ref="1711792337"/>
+  <nd ref="1711792335"/>
+  <tag k="highway" v="footway"/>
+  <tag k="name" v="Лебяжья аллея"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="159079321" visible="true" version="6" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="9939975275"/>
+  <nd ref="1711792403"/>
+  <nd ref="1711792399"/>
+  <tag k="check_date:surface" v="2022-07-30"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="159079323" visible="true" version="6" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="1711792410"/>
+  <nd ref="1711792403"/>
+  <nd ref="5652382547"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="159079328" visible="true" version="4" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809">
+  <nd ref="1711792430"/>
+  <nd ref="5652382595"/>
+  <nd ref="1711792440"/>
+  <nd ref="1711792442"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="159079331" visible="true" version="8" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="1711792447"/>
+  <nd ref="1711792449"/>
+  <nd ref="1711792454"/>
+  <nd ref="3595284128"/>
+  <nd ref="9934131049"/>
+  <nd ref="5648144397"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="159079339" visible="true" version="7" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="1711792402"/>
+  <nd ref="1711792403"/>
+  <nd ref="1711792404"/>
+  <nd ref="1711792405"/>
+  <nd ref="9937873051"/>
+  <nd ref="1711792406"/>
+  <tag k="check_date:surface" v="2022-07-11"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="159079348" visible="true" version="9" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809">
+  <nd ref="1711792450"/>
+  <nd ref="1711792452"/>
+  <nd ref="5652382550"/>
+  <nd ref="1711792455"/>
+  <nd ref="1711792451"/>
+  <nd ref="9945710219"/>
+  <nd ref="9945710176"/>
+  <nd ref="9947959657"/>
+  <nd ref="9947922168"/>
+  <nd ref="9947922196"/>
+  <nd ref="9945710161"/>
+  <nd ref="9945710205"/>
+  <nd ref="1711792450"/>
+  <tag k="building" v="retail"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="name" v="Малая оранжерея"/>
+ </way>
+ <way id="197658097" visible="true" version="6" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="2078615565"/>
+  <nd ref="2078615566"/>
+  <nd ref="2078615567"/>
+  <nd ref="2078615564"/>
+  <nd ref="2078615559"/>
+  <nd ref="2078615558"/>
+  <nd ref="2078615555"/>
+  <nd ref="2078615560"/>
+  <nd ref="2078615565"/>
+  <tag k="check_date:surface" v="2021-07-28"/>
+  <tag k="highway" v="footway"/>
+  <tag k="lit" v="no"/>
+  <tag k="name" v="Главная аллея"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="197658098" visible="true" version="7" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="1711792453"/>
+  <nd ref="3595284128"/>
+  <nd ref="1711792483"/>
+  <nd ref="1711792499"/>
+  <nd ref="5641718557"/>
+  <nd ref="1711792602"/>
+  <nd ref="1711792618"/>
+  <nd ref="1711792625"/>
+  <tag k="highway" v="footway"/>
+  <tag k="lit" v="no"/>
+  <tag k="name" v="Косая аллея"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="197658103" visible="true" version="6" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="2078615525"/>
+  <nd ref="2078615518"/>
+  <nd ref="2078615514"/>
+  <nd ref="2078615511"/>
+  <nd ref="2562715068"/>
+  <nd ref="2078615495"/>
+  <nd ref="2078615494"/>
+  <nd ref="2078615507"/>
+  <nd ref="2078615516"/>
+  <nd ref="2078615520"/>
+  <nd ref="2562715066"/>
+  <nd ref="2078615524"/>
+  <nd ref="2078615525"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="197658140" visible="true" version="8" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809">
+  <nd ref="2078615549"/>
+  <nd ref="5648144413"/>
+  <nd ref="5648144851"/>
+  <nd ref="2078615556"/>
+  <nd ref="5648144338"/>
+  <nd ref="9995581525"/>
+  <nd ref="9995581554"/>
+  <nd ref="9995581521"/>
+  <nd ref="9995529294"/>
+  <nd ref="4255789252"/>
+  <nd ref="2078615544"/>
+  <nd ref="4255789250"/>
+  <nd ref="2078615536"/>
+  <nd ref="5648144861"/>
+  <nd ref="5648144376"/>
+  <nd ref="5648144360"/>
+  <nd ref="2078615549"/>
+  <tag k="building" v="commercial"/>
+  <tag k="building:levels" v="1"/>
+  <tag k="name" v="Хозяйственный двор"/>
+  <tag k="name:en" v="Farmyard"/>
+ </way>
+ <way id="197658143" visible="true" version="7" changeset="135196313" timestamp="2023-04-21T14:23:58Z" user="mini-me" uid="3846961">
+  <nd ref="1686864253"/>
+  <nd ref="9934469901"/>
+  <nd ref="9934472628"/>
+  <nd ref="5652382625"/>
+  <nd ref="10829900773"/>
+  <tag k="barrier" v="retaining_wall"/>
+ </way>
+ <way id="307650224" visible="true" version="10" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="1711792395"/>
+  <nd ref="1711792406"/>
+  <nd ref="9939980961"/>
+  <nd ref="3128483007"/>
+  <nd ref="9939975307"/>
+  <nd ref="9939975249"/>
+  <nd ref="1711792458"/>
+  <nd ref="1711792480"/>
+  <nd ref="9947959695"/>
+  <nd ref="1711792500"/>
+  <nd ref="1711792611"/>
+  <nd ref="9995581541"/>
+  <nd ref="3128483653"/>
+  <nd ref="3128483655"/>
+  <nd ref="9997912218"/>
+  <tag k="highway" v="footway"/>
+  <tag k="paving_stones:material" v="granite"/>
+  <tag k="smoothness" v="intermediate"/>
+  <tag k="surface" v="paving_stones"/>
+ </way>
+ <way id="307650227" visible="true" version="6" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="1711792411"/>
+  <nd ref="9939975273"/>
+  <nd ref="3128483007"/>
+  <tag k="highway" v="footway"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="307650229" visible="true" version="5" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="3128483010"/>
+  <nd ref="3128483009"/>
+  <nd ref="3128483012"/>
+  <nd ref="3128483014"/>
+  <nd ref="3128483016"/>
+  <nd ref="3128483018"/>
+  <nd ref="3128483020"/>
+  <nd ref="3128483022"/>
+  <nd ref="3128483024"/>
+  <nd ref="3128483027"/>
+  <nd ref="3128483629"/>
+  <nd ref="3128483631"/>
+  <nd ref="1711792470"/>
+  <nd ref="3128483635"/>
+  <nd ref="3128483637"/>
+  <nd ref="3128483639"/>
+  <nd ref="3128483640"/>
+  <nd ref="3128483638"/>
+  <nd ref="3128483636"/>
+  <nd ref="3128483634"/>
+  <nd ref="3128483633"/>
+  <nd ref="3128483632"/>
+  <nd ref="3128483630"/>
+  <nd ref="3128483028"/>
+  <nd ref="3128483026"/>
+  <nd ref="3128483023"/>
+  <nd ref="3128483021"/>
+  <nd ref="3128483019"/>
+  <nd ref="3128483017"/>
+  <nd ref="3128483015"/>
+  <nd ref="3128483013"/>
+  <nd ref="3128483011"/>
+  <nd ref="3128483010"/>
+  <tag k="highway" v="footway"/>
+  <tag k="lit" v="no"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="311015874" visible="true" version="3" changeset="91758315" timestamp="2020-09-30T09:39:30Z" user="MosKartograf" uid="382604">
+  <nd ref="3165417137"/>
+  <nd ref="3165417135"/>
+  <nd ref="3165417136"/>
+  <nd ref="3165417138"/>
+  <nd ref="3165417137"/>
+  <tag k="amenity" v="fountain"/>
+  <tag k="name" v="Пирамида"/>
+  <tag k="name:en" v="Pyramid"/>
+  <tag k="name:zh" v="金字塔"/>
+  <tag k="ref:okn" v="781610417891216"/>
+ </way>
+ <way id="353713496" visible="true" version="1" changeset="31972176" timestamp="2015-06-14T22:15:07Z" user="VlIvYur" uid="345975">
+  <nd ref="3595284098"/>
+  <nd ref="3595284096"/>
+  <nd ref="3595284094"/>
+  <nd ref="3595282992"/>
+  <nd ref="3595282991"/>
+  <nd ref="3595284093"/>
+  <nd ref="3595284095"/>
+  <nd ref="3595284097"/>
+  <nd ref="3595284100"/>
+  <nd ref="3595284103"/>
+  <nd ref="3595284105"/>
+  <nd ref="3595284107"/>
+  <nd ref="3595284106"/>
+  <nd ref="3595284104"/>
+  <nd ref="3595284102"/>
+  <nd ref="3595284099"/>
+  <nd ref="3595284098"/>
+  <tag k="amenity" v="fountain"/>
+ </way>
+ <way id="353713500" visible="true" version="2" changeset="59408270" timestamp="2018-05-30T19:35:49Z" user="Anton Khorev" uid="437809">
+  <nd ref="1711792451"/>
+  <nd ref="3595284125"/>
+  <nd ref="5652382541"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="353713502" visible="true" version="4" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="2078615516"/>
+  <nd ref="3595282988"/>
+  <tag k="check_date:surface" v="2022-07-11"/>
+  <tag k="highway" v="footway"/>
+  <tag k="smoothness" v="intermediate"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="353713504" visible="true" version="4" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="2078615514"/>
+  <nd ref="3595284108"/>
+  <tag k="check_date:surface" v="2022-07-11"/>
+  <tag k="highway" v="footway"/>
+  <tag k="smoothness" v="intermediate"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="353713505" visible="true" version="4" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="2078615524"/>
+  <nd ref="3595284120"/>
+  <tag k="check_date:surface" v="2022-07-11"/>
+  <tag k="highway" v="footway"/>
+  <tag k="smoothness" v="intermediate"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="353713507" visible="true" version="4" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="2078615495"/>
+  <nd ref="3595282985"/>
+  <tag k="check_date:surface" v="2022-07-11"/>
+  <tag k="highway" v="footway"/>
+  <tag k="smoothness" v="intermediate"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="353713513" visible="true" version="4" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="3595284117"/>
+  <nd ref="3595282988"/>
+  <nd ref="3595282984"/>
+  <nd ref="3595282985"/>
+  <nd ref="3595282987"/>
+  <nd ref="3595284108"/>
+  <nd ref="3595284124"/>
+  <tag k="check_date:surface" v="2022-07-11"/>
+  <tag k="highway" v="footway"/>
+  <tag k="smoothness" v="intermediate"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="353713515" visible="true" version="5" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="3595284126"/>
+  <nd ref="3595284112"/>
+  <nd ref="3595284116"/>
+  <nd ref="3595284117"/>
+  <nd ref="3595284120"/>
+  <nd ref="3595284124"/>
+  <nd ref="3595284125"/>
+  <nd ref="2078615531"/>
+  <tag k="check_date:surface" v="2022-07-11"/>
+  <tag k="highway" v="footway"/>
+  <tag k="smoothness" v="intermediate"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="426274207" visible="true" version="1" changeset="40172927" timestamp="2016-06-21T06:34:29Z" user="Pavel47" uid="472653">
+  <nd ref="4255789250"/>
+  <nd ref="4255789251"/>
+  <nd ref="4255789252"/>
+  <nd ref="2078615544"/>
+  <nd ref="4255789250"/>
+  <tag k="branch" v="Кабельная сеть"/>
+  <tag k="frequency" v="50"/>
+  <tag k="location" v="indoor"/>
+  <tag k="operator" v="Ленэнерго"/>
+  <tag k="power" v="substation"/>
+  <tag k="ref" v="222"/>
+  <tag k="substation" v="minor_distribution"/>
+  <tag k="voltage" v="10000;400"/>
+ </way>
+ <way id="429044847" visible="true" version="3" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809">
+  <nd ref="4281708722"/>
+  <nd ref="4281708730"/>
+  <nd ref="4281708724"/>
+  <nd ref="4281708696"/>
+  <nd ref="4281708704"/>
+  <nd ref="4281708716"/>
+  <nd ref="4281708755"/>
+  <nd ref="4281708749"/>
+  <nd ref="4281708709"/>
+  <nd ref="4281708756"/>
+  <nd ref="4281708739"/>
+  <nd ref="4281708751"/>
+  <nd ref="4281708722"/>
+  <tag k="barrier" v="hedge"/>
+  <tag k="height" v="2.5"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="591647539" visible="true" version="4" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="5648144420"/>
+  <nd ref="1711792449"/>
+  <nd ref="1711792445"/>
+  <nd ref="1711792409"/>
+  <nd ref="1711792403"/>
+  <nd ref="1711792398"/>
+  <tag k="highway" v="footway"/>
+  <tag k="name" v="Школьная аллея"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="591647540" visible="true" version="1" changeset="59347247" timestamp="2018-05-28T18:07:54Z" user="Anton Khorev" uid="437809">
+  <nd ref="5648144376"/>
+  <nd ref="5648144862"/>
+  <nd ref="5648144411"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="591647544" visible="true" version="2" changeset="125489033" timestamp="2022-08-28T17:56:00Z" user="Anton Khorev" uid="437809">
+  <nd ref="5648144411"/>
+  <nd ref="5648144358"/>
+  <nd ref="5648144404"/>
+  <nd ref="5648144393"/>
+  <nd ref="5648144352"/>
+  <nd ref="5648144334"/>
+  <tag k="barrier" v="hedge"/>
+ </way>
+ <way id="591647547" visible="true" version="5" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="5648144399"/>
+  <nd ref="5648144836"/>
+  <nd ref="5648144854"/>
+  <nd ref="5648144353"/>
+  <tag k="highway" v="footway"/>
+  <tag k="lit" v="no"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="591647548" visible="true" version="1" changeset="59347247" timestamp="2018-05-28T18:07:55Z" user="Anton Khorev" uid="437809">
+  <nd ref="5648144846"/>
+  <nd ref="5648144833"/>
+  <nd ref="5648144338"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="591647549" visible="true" version="5" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="5648144397"/>
+  <nd ref="5648144862"/>
+  <nd ref="5648144367"/>
+  <tag k="highway" v="footway"/>
+  <tag k="lit" v="no"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="591647551" visible="true" version="4" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="5648144852"/>
+  <nd ref="1711792470"/>
+  <tag k="highway" v="footway"/>
+  <tag k="lit" v="no"/>
+  <tag k="surface" v="compacted"/>
+ </way>
+ <way id="591647553" visible="true" version="2" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809">
+  <nd ref="5648144391"/>
+  <nd ref="5648144400"/>
+  <nd ref="5648144822"/>
+  <nd ref="5648144865"/>
+  <nd ref="5648144370"/>
+  <nd ref="5648144829"/>
+  <nd ref="5648144341"/>
+  <nd ref="5648144402"/>
+  <nd ref="5648144409"/>
+  <nd ref="5648144380"/>
+  <nd ref="5648144331"/>
+  <nd ref="5648144364"/>
+  <nd ref="5648144366"/>
+  <nd ref="5648144389"/>
+  <nd ref="5648144343"/>
+  <nd ref="5648144351"/>
+  <nd ref="5648144844"/>
+  <nd ref="5648144337"/>
+  <nd ref="5648144391"/>
+  <tag k="barrier" v="hedge"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="591647555" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809">
+  <nd ref="5648144340"/>
+  <nd ref="5648144849"/>
+  <nd ref="5648144392"/>
+  <nd ref="5648144856"/>
+  <nd ref="5648144377"/>
+  <nd ref="5648144836"/>
+  <nd ref="5648144834"/>
+  <nd ref="5648144414"/>
+  <nd ref="5648144845"/>
+  <nd ref="5648144356"/>
+  <nd ref="5648144328"/>
+  <nd ref="5648144395"/>
+  <nd ref="5648144340"/>
+  <tag k="barrier" v="hedge"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="592178576" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382616"/>
+  <nd ref="9939975291"/>
+  <nd ref="5652382531"/>
+  <nd ref="5652382601"/>
+  <nd ref="5652382582"/>
+  <tag k="barrier" v="hedge"/>
+ </way>
+ <way id="592178577" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382615"/>
+  <nd ref="5652382602"/>
+  <nd ref="5652382575"/>
+  <nd ref="9939980954"/>
+  <nd ref="5652382615"/>
+  <tag k="barrier" v="hedge"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="592178578" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382563"/>
+  <nd ref="9937873055"/>
+  <nd ref="9937873094"/>
+  <nd ref="9937873104"/>
+  <nd ref="9937873043"/>
+  <nd ref="5652382581"/>
+  <nd ref="5652382595"/>
+  <nd ref="5652382563"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="592178579" visible="true" version="2" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382522"/>
+  <nd ref="5652382592"/>
+  <nd ref="5652382593"/>
+  <nd ref="5652382555"/>
+  <nd ref="5652382522"/>
+  <tag k="barrier" v="hedge"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="592178581" visible="true" version="1" changeset="59408270" timestamp="2018-05-30T19:35:46Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382526"/>
+  <nd ref="3595284116"/>
+  <nd ref="1711792450"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="592178584" visible="true" version="2" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382609"/>
+  <nd ref="5652382564"/>
+  <nd ref="5652382559"/>
+  <nd ref="5652382548"/>
+  <nd ref="5652382609"/>
+  <tag k="barrier" v="hedge"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="592178587" visible="true" version="1" changeset="59408270" timestamp="2018-05-30T19:35:47Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382620"/>
+  <nd ref="5652382539"/>
+  <nd ref="5652382604"/>
+  <nd ref="5652382606"/>
+  <nd ref="5652382620"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="1"/>
+ </way>
+ <way id="592178588" visible="true" version="19" changeset="141361523" timestamp="2023-09-16T23:10:34Z" user="traveleditor" uid="8726248">
+  <nd ref="3595282986"/>
+  <nd ref="5652382541"/>
+  <nd ref="3595284125"/>
+  <nd ref="1711792451"/>
+  <nd ref="9945710219"/>
+  <nd ref="9945710176"/>
+  <nd ref="9947959657"/>
+  <nd ref="9947922168"/>
+  <nd ref="9947922196"/>
+  <nd ref="9945710161"/>
+  <nd ref="9945710205"/>
+  <nd ref="1711792450"/>
+  <nd ref="3595284116"/>
+  <nd ref="5652382526"/>
+  <nd ref="3595282983"/>
+  <nd ref="9947959656"/>
+  <nd ref="9947959620"/>
+  <nd ref="3595282986"/>
+  <tag k="leisure" v="garden"/>
+  <tag k="name" v="Красный сад"/>
+ </way>
+ <way id="592178589" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382538"/>
+  <nd ref="5652382600"/>
+  <nd ref="5652382525"/>
+  <nd ref="9939975267"/>
+  <nd ref="9939975236"/>
+  <nd ref="5652382618"/>
+  <nd ref="5652382538"/>
+  <tag k="barrier" v="hedge"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="592178592" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809">
+  <nd ref="9939975250"/>
+  <nd ref="5652382543"/>
+  <nd ref="5652382616"/>
+  <tag k="barrier" v="hedge"/>
+ </way>
+ <way id="592178594" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382623"/>
+  <nd ref="5652382557"/>
+  <nd ref="5652382544"/>
+  <nd ref="5652382623"/>
+  <tag k="barrier" v="hedge"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="592178596" visible="true" version="1" changeset="59408270" timestamp="2018-05-30T19:35:47Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382590"/>
+  <nd ref="1711792440"/>
+  <nd ref="5652382573"/>
+  <tag k="barrier" v="fence"/>
+ </way>
+ <way id="592178597" visible="true" version="2" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382563"/>
+  <nd ref="5652382573"/>
+  <nd ref="5652382554"/>
+  <nd ref="5652382586"/>
+  <nd ref="5652382527"/>
+  <nd ref="5652382562"/>
+  <nd ref="5652382572"/>
+  <nd ref="5652382526"/>
+  <nd ref="3595282983"/>
+  <nd ref="9947959656"/>
+  <nd ref="9947959620"/>
+  <nd ref="3595282986"/>
+  <tag k="barrier" v="hedge"/>
+ </way>
+ <way id="592178602" visible="true" version="1" changeset="59408270" timestamp="2018-05-30T19:35:47Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382541"/>
+  <nd ref="3595282986"/>
+  <nd ref="5652382590"/>
+  <nd ref="5652382581"/>
+  <tag k="barrier" v="hedge"/>
+ </way>
+ <way id="592178603" visible="true" version="2" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382560"/>
+  <nd ref="5652382529"/>
+  <nd ref="5652382617"/>
+  <nd ref="5652382560"/>
+  <tag k="barrier" v="hedge"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="592178604" visible="true" version="2" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382599"/>
+  <nd ref="5652382583"/>
+  <nd ref="5652382561"/>
+  <nd ref="5652382523"/>
+  <nd ref="5652382599"/>
+  <tag k="barrier" v="hedge"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="1084486205" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809">
+  <nd ref="9937873077"/>
+  <nd ref="9937873071"/>
+  <nd ref="9937875619"/>
+  <nd ref="9937873053"/>
+  <nd ref="9937875658"/>
+  <nd ref="9937873077"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="1084486207" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809">
+  <nd ref="9937873086"/>
+  <nd ref="9937875637"/>
+  <nd ref="9937875639"/>
+  <nd ref="9937873108"/>
+  <nd ref="9937875655"/>
+  <nd ref="9937873086"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="1084486208" visible="true" version="1" changeset="124610135" timestamp="2022-08-07T19:16:21Z" user="Anton Khorev" uid="437809">
+  <nd ref="9937873066"/>
+  <nd ref="1711792430"/>
+  <nd ref="9937875620"/>
+  <nd ref="9937875648"/>
+  <nd ref="9937873068"/>
+  <nd ref="9937873066"/>
+  <tag k="access" v="private"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="1084728112" visible="true" version="1" changeset="124653195" timestamp="2022-08-08T18:40:23Z" user="Anton Khorev" uid="437809">
+  <nd ref="5652382582"/>
+  <nd ref="9939980941"/>
+  <nd ref="9939975262"/>
+  <nd ref="9939975250"/>
+  <nd ref="5652382543"/>
+  <nd ref="5652382616"/>
+  <nd ref="9939975291"/>
+  <nd ref="5652382531"/>
+  <nd ref="5652382601"/>
+  <nd ref="5652382582"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="1085414059" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809">
+  <nd ref="9945710140"/>
+  <nd ref="9945710130"/>
+  <nd ref="9945710144"/>
+  <nd ref="9945699376"/>
+  <nd ref="9945710223"/>
+  <nd ref="9945710142"/>
+  <nd ref="9945710140"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="1085414060" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809">
+  <nd ref="9945699394"/>
+  <nd ref="9945710197"/>
+  <nd ref="9945699413"/>
+  <nd ref="9945710118"/>
+  <nd ref="9945699394"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="1085414063" visible="true" version="1" changeset="124744234" timestamp="2022-08-10T18:33:00Z" user="Anton Khorev" uid="437809">
+  <nd ref="9945710168"/>
+  <nd ref="9945699407"/>
+  <nd ref="9945710125"/>
+  <nd ref="9945710167"/>
+  <nd ref="9945710192"/>
+  <nd ref="9945710221"/>
+  <nd ref="9945699396"/>
+  <nd ref="9945699354"/>
+  <nd ref="9945710168"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="1085664994" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809">
+  <nd ref="9947922143"/>
+  <nd ref="9947922158"/>
+  <nd ref="9947959673"/>
+  <nd ref="9947959698"/>
+  <nd ref="9947959618"/>
+  <nd ref="9947922154"/>
+  <nd ref="9947922203"/>
+  <nd ref="9947959686"/>
+  <nd ref="9947922149"/>
+  <nd ref="9947922170"/>
+  <nd ref="9947922188"/>
+  <nd ref="9947922187"/>
+  <nd ref="9947922166"/>
+  <nd ref="9947922164"/>
+  <nd ref="9947922143"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="1085664995" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809">
+  <nd ref="9947922183"/>
+  <nd ref="9947959650"/>
+  <nd ref="9947922212"/>
+  <nd ref="9947922171"/>
+  <nd ref="9947922194"/>
+  <nd ref="9947922160"/>
+  <nd ref="9947959628"/>
+  <nd ref="9947959675"/>
+  <nd ref="9947959678"/>
+  <nd ref="9947922208"/>
+  <nd ref="9947922200"/>
+  <nd ref="9947922179"/>
+  <nd ref="9947922206"/>
+  <nd ref="9947959693"/>
+  <nd ref="9947922183"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="1085664996" visible="true" version="3" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="9939980961"/>
+  <nd ref="9947959655"/>
+  <tag k="highway" v="steps"/>
+ </way>
+ <way id="1085664997" visible="true" version="3" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="9947959655"/>
+  <nd ref="9947959665"/>
+  <tag k="highway" v="footway"/>
+ </way>
+ <way id="1085664998" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809">
+  <nd ref="9947959620"/>
+  <nd ref="9947959694"/>
+  <nd ref="9947922195"/>
+  <nd ref="9947922174"/>
+  <nd ref="9947959627"/>
+  <nd ref="3595282983"/>
+  <nd ref="5652382526"/>
+  <nd ref="5652382572"/>
+  <nd ref="5652382562"/>
+  <nd ref="5652382527"/>
+  <nd ref="5652382586"/>
+  <nd ref="5652382554"/>
+  <nd ref="5652382573"/>
+  <nd ref="5652382563"/>
+  <nd ref="9937873055"/>
+  <nd ref="9937873094"/>
+  <nd ref="9937873104"/>
+  <nd ref="9937873043"/>
+  <nd ref="5652382581"/>
+  <nd ref="5652382590"/>
+  <nd ref="3595282986"/>
+  <nd ref="9947959620"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="1085664999" visible="true" version="3" changeset="150764075" timestamp="2024-05-01T18:41:28Z" user="dypa" uid="385972">
+  <nd ref="9947959665"/>
+  <nd ref="9939975249"/>
+  <tag k="highway" v="steps"/>
+ </way>
+ <way id="1085665000" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809">
+  <nd ref="9947959657"/>
+  <nd ref="9947922168"/>
+  <nd ref="9947922196"/>
+  <nd ref="9947959659"/>
+  <nd ref="9947959623"/>
+  <nd ref="9947959657"/>
+  <tag k="area:highway" v="steps"/>
+ </way>
+ <way id="1085665001" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809">
+  <nd ref="9947959632"/>
+  <nd ref="9947922214"/>
+  <nd ref="9947959644"/>
+  <nd ref="9947922152"/>
+  <nd ref="9947959692"/>
+  <nd ref="9947959666"/>
+  <nd ref="9947959679"/>
+  <nd ref="9947959685"/>
+  <nd ref="9947922145"/>
+  <nd ref="9947959664"/>
+  <nd ref="9947922181"/>
+  <nd ref="9947959668"/>
+  <nd ref="9947959649"/>
+  <nd ref="9947959622"/>
+  <nd ref="9947959632"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="1085665002" visible="true" version="2" changeset="135196313" timestamp="2023-04-21T14:23:58Z" user="mini-me" uid="3846961">
+  <nd ref="9947959683"/>
+  <nd ref="9947922213"/>
+  <tag k="barrier" v="retaining_wall"/>
+ </way>
+ <way id="1085665003" visible="true" version="1" changeset="124788458" timestamp="2022-08-11T18:41:33Z" user="Anton Khorev" uid="437809">
+  <nd ref="9947959651"/>
+  <nd ref="9947959689"/>
+  <nd ref="9947959626"/>
+  <nd ref="9947959637"/>
+  <nd ref="9947922156"/>
+  <nd ref="9947922209"/>
+  <nd ref="9947922215"/>
+  <nd ref="9947959662"/>
+  <nd ref="9947922155"/>
+  <nd ref="9947959661"/>
+  <nd ref="9947922161"/>
+  <nd ref="9947959621"/>
+  <nd ref="9947922150"/>
+  <nd ref="9947922157"/>
+  <nd ref="9947959651"/>
+  <tag k="landuse" v="grass"/>
+ </way>
+ <way id="1088234580" visible="true" version="1" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809">
+  <nd ref="9970570006"/>
+  <nd ref="9970569920"/>
+  <nd ref="9970570071"/>
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="no"/>
+ </way>
+ <way id="1088234584" visible="true" version="1" changeset="125238477" timestamp="2022-08-22T17:49:38Z" user="Anton Khorev" uid="437809">
+  <nd ref="9970569988"/>
+  <nd ref="9970569922"/>
+  <nd ref="9970570037"/>
+  <tag k="amenity" v="bench"/>
+  <tag k="backrest" v="no"/>
+ </way>
+ <way id="1089906896" visible="true" version="2" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809">
+  <nd ref="5648144387"/>
+  <nd ref="5648144388"/>
+  <nd ref="5648144335"/>
+  <nd ref="9995581564"/>
+  <nd ref="5648144381"/>
+  <nd ref="5648144846"/>
+  <tag k="barrier" v="hedge"/>
+ </way>
+ <way id="1089906897" visible="true" version="1" changeset="125489033" timestamp="2022-08-28T17:56:00Z" user="Anton Khorev" uid="437809">
+  <nd ref="9983809164"/>
+  <nd ref="5648144396"/>
+  <nd ref="5648144416"/>
+  <nd ref="5648144372"/>
+  <nd ref="5648144407"/>
+  <nd ref="5648144832"/>
+  <nd ref="5648144857"/>
+  <nd ref="5648144412"/>
+  <nd ref="5648144406"/>
+  <nd ref="5648144350"/>
+  <nd ref="5648144408"/>
+  <nd ref="5648144837"/>
+  <nd ref="5648144847"/>
+  <nd ref="5648144835"/>
+  <nd ref="5648144824"/>
+  <nd ref="5648144339"/>
+  <nd ref="5648144333"/>
+  <nd ref="5648144348"/>
+  <nd ref="5648144830"/>
+  <nd ref="5648144354"/>
+  <nd ref="5648144383"/>
+  <nd ref="5648144394"/>
+  <nd ref="9983808267"/>
+  <tag k="barrier" v="hedge"/>
+ </way>
+ <way id="1090301742" visible="true" version="1" changeset="125536233" timestamp="2022-08-29T18:25:31Z" user="Anton Khorev" uid="437809">
+  <nd ref="9986660382"/>
+  <nd ref="9945710121"/>
+  <tag k="natural" v="tree_row"/>
+ </way>
+ <way id="1091326110" visible="true" version="1" changeset="125709683" timestamp="2022-09-02T17:52:54Z" user="Anton Khorev" uid="437809">
+  <nd ref="5648144358"/>
+  <nd ref="5648144411"/>
+  <nd ref="9995581534"/>
+  <nd ref="5648144360"/>
+  <nd ref="2078615549"/>
+  <nd ref="5648144413"/>
+  <nd ref="5648144851"/>
+  <nd ref="9995529256"/>
+  <nd ref="9995581564"/>
+  <nd ref="5648144335"/>
+  <nd ref="5648144388"/>
+  <nd ref="5648144387"/>
+  <nd ref="9983808267"/>
+  <nd ref="5648144394"/>
+  <nd ref="5648144383"/>
+  <nd ref="5648144354"/>
+  <nd ref="5648144830"/>
+  <nd ref="5648144348"/>
+  <nd ref="5648144333"/>
+  <nd ref="5648144339"/>
+  <nd ref="5648144824"/>
+  <nd ref="5648144835"/>
+  <nd ref="5648144847"/>
+  <nd ref="5648144837"/>
+  <nd ref="5648144408"/>
+  <nd ref="5648144350"/>
+  <nd ref="5648144406"/>
+  <nd ref="5648144412"/>
+  <nd ref="5648144857"/>
+  <nd ref="5648144832"/>
+  <nd ref="5648144407"/>
+  <nd ref="5648144372"/>
+  <nd ref="5648144416"/>
+  <nd ref="5648144396"/>
+  <nd ref="9983809164"/>
+  <nd ref="5648144334"/>
+  <nd ref="5648144352"/>
+  <nd ref="5648144393"/>
+  <nd ref="5648144404"/>
+  <nd ref="5648144358"/>
+  <tag k="natural" v="wood"/>
+ </way>
+ <way id="1164466516" visible="true" version="1" changeset="135196313" timestamp="2023-04-21T14:23:58Z" user="mini-me" uid="3846961">
+  <nd ref="10829900774"/>
+  <nd ref="79806052"/>
+  <nd ref="79806053"/>
+  <nd ref="5633230377"/>
+  <nd ref="1902111060"/>
+  <tag k="barrier" v="retaining_wall"/>
+ </way>
+ <way id="1164466517" visible="true" version="1" changeset="135196313" timestamp="2023-04-21T14:23:58Z" user="mini-me" uid="3846961">
+  <nd ref="10829900773"/>
+  <nd ref="10829900774"/>
+ </way>
+ <way id="1164466518" visible="true" version="1" changeset="135196313" timestamp="2023-04-21T14:23:58Z" user="mini-me" uid="3846961">
+  <nd ref="10829900773"/>
+  <nd ref="9947959683"/>
+ </way>
+ <way id="1164466519" visible="true" version="1" changeset="135196313" timestamp="2023-04-21T14:23:58Z" user="mini-me" uid="3846961">
+  <nd ref="10829900774"/>
+  <nd ref="9947922213"/>
+ </way>
+ <relation id="1201709" visible="true" version="68" changeset="145276889" timestamp="2023-12-19T06:05:50Z" user="Noktoborus" uid="540529">
+  <member type="way" ref="79821370" role="outer"/>
+  <member type="way" ref="79821371" role="outer"/>
+  <member type="way" ref="27756004" role="outer"/>
+  <member type="way" ref="79821394" role="outer"/>
+  <member type="way" ref="243217978" role="outer"/>
+  <member type="way" ref="243217981" role="outer"/>
+  <member type="way" ref="243943504" role="outer"/>
+  <member type="way" ref="243943538" role="outer"/>
+  <member type="way" ref="1164466561" role="outer"/>
+  <member type="way" ref="1164466560" role="outer"/>
+  <member type="way" ref="1164466565" role="outer"/>
+  <member type="way" ref="1164466564" role="outer"/>
+  <member type="way" ref="384990663" role="outer"/>
+  <member type="way" ref="384990679" role="outer"/>
+  <member type="way" ref="1164466557" role="outer"/>
+  <member type="way" ref="1164466556" role="outer"/>
+  <member type="way" ref="1230560459" role="outer"/>
+  <member type="way" ref="369414363" role="outer"/>
+  <member type="way" ref="1230560460" role="outer"/>
+  <member type="way" ref="369414368" role="outer"/>
+  <member type="way" ref="1232326517" role="outer"/>
+  <member type="way" ref="243943509" role="outer"/>
+  <member type="way" ref="243943519" role="outer"/>
+  <member type="way" ref="384989033" role="outer"/>
+  <member type="way" ref="1178016452" role="outer"/>
+  <member type="way" ref="1178016451" role="outer"/>
+  <member type="way" ref="384989031" role="outer"/>
+  <member type="way" ref="1231860497" role="outer"/>
+  <member type="way" ref="376895805" role="outer"/>
+  <member type="way" ref="1231860496" role="outer"/>
+  <member type="way" ref="1125313919" role="outer"/>
+  <member type="way" ref="1125313918" role="outer"/>
+  <member type="way" ref="1125313912" role="outer"/>
+  <member type="way" ref="376895815" role="outer"/>
+  <member type="way" ref="1125313911" role="outer"/>
+  <member type="way" ref="1164466540" role="outer"/>
+  <member type="way" ref="376754074" role="outer"/>
+  <member type="way" ref="376754069" role="outer"/>
+  <member type="way" ref="1164466539" role="outer"/>
+  <member type="way" ref="1164466538" role="outer"/>
+  <member type="way" ref="245584481" role="outer"/>
+  <member type="way" ref="245584486" role="outer"/>
+  <member type="way" ref="375997325" role="outer"/>
+  <member type="way" ref="375997316" role="outer"/>
+  <member type="way" ref="1178015851" role="outer"/>
+  <member type="way" ref="1178015857" role="outer"/>
+  <member type="way" ref="1178015856" role="outer"/>
+  <member type="way" ref="1178015854" role="outer"/>
+  <member type="way" ref="375729388" role="outer"/>
+  <member type="way" ref="375729390" role="outer"/>
+  <member type="way" ref="375288600" role="outer"/>
+  <member type="way" ref="375288603" role="outer"/>
+  <member type="way" ref="1123466199" role="outer"/>
+  <member type="way" ref="1123466198" role="outer"/>
+  <member type="way" ref="372394910" role="outer"/>
+  <member type="way" ref="458921321" role="outer"/>
+  <member type="way" ref="458921319" role="outer"/>
+  <member type="way" ref="458921318" role="outer"/>
+  <member type="way" ref="1178014810" role="outer"/>
+  <member type="way" ref="458921320" role="outer"/>
+  <member type="way" ref="372394923" role="outer"/>
+  <member type="way" ref="1178014800" role="outer"/>
+  <member type="way" ref="1178014799" role="outer"/>
+  <member type="way" ref="375582776" role="outer"/>
+  <member type="way" ref="1164471668" role="outer"/>
+  <member type="way" ref="1164471667" role="outer"/>
+  <member type="way" ref="375582783" role="outer"/>
+  <member type="way" ref="628779126" role="outer"/>
+  <member type="way" ref="243947448" role="outer"/>
+  <member type="way" ref="371587755" role="outer"/>
+  <member type="way" ref="197658143" role="outer"/>
+  <member type="way" ref="1164466517" role="outer"/>
+  <member type="way" ref="1164466516" role="outer"/>
+  <member type="way" ref="197658142" role="outer"/>
+  <member type="way" ref="287049584" role="outer"/>
+  <member type="way" ref="243950396" role="outer"/>
+  <member type="way" ref="243950394" role="outer"/>
+  <member type="way" ref="287049583" role="outer"/>
+  <member type="way" ref="371587747" role="outer"/>
+  <member type="way" ref="371587753" role="outer"/>
+  <member type="way" ref="375582777" role="outer"/>
+  <member type="way" ref="1189211325" role="outer"/>
+  <member type="way" ref="1189211324" role="outer"/>
+  <member type="way" ref="375582788" role="outer"/>
+  <member type="way" ref="1178014786" role="outer"/>
+  <member type="way" ref="1178014793" role="outer"/>
+  <member type="way" ref="1178014792" role="outer"/>
+  <member type="way" ref="1178014785" role="outer"/>
+  <member type="way" ref="372394927" role="outer"/>
+  <member type="way" ref="1164466528" role="outer"/>
+  <member type="way" ref="1164466527" role="outer"/>
+  <member type="way" ref="113582011" role="outer"/>
+  <member type="way" ref="113591145" role="outer"/>
+  <member type="way" ref="113591175" role="outer"/>
+  <member type="way" ref="113591150" role="outer"/>
+  <member type="way" ref="375729387" role="outer"/>
+  <member type="way" ref="375997314" role="outer"/>
+  <member type="way" ref="375997322" role="outer"/>
+  <member type="way" ref="245584482" role="outer"/>
+  <member type="way" ref="245584483" role="outer"/>
+  <member type="way" ref="1164466531" role="outer"/>
+  <member type="way" ref="1164466530" role="outer"/>
+  <member type="way" ref="376754060" role="outer"/>
+  <member type="way" ref="376754068" role="outer"/>
+  <member type="way" ref="1164466549" role="outer"/>
+  <member type="way" ref="1164466548" role="outer"/>
+  <member type="way" ref="1231860474" role="outer"/>
+  <member type="way" ref="376895804" role="outer"/>
+  <member type="way" ref="1231860475" role="outer"/>
+  <member type="way" ref="376895801" role="outer"/>
+  <member type="way" ref="1178016441" role="outer"/>
+  <member type="way" ref="1178016450" role="outer"/>
+  <member type="way" ref="1178016449" role="outer"/>
+  <member type="way" ref="1178016442" role="outer"/>
+  <member type="way" ref="384989032" role="outer"/>
+  <member type="way" ref="384989037" role="outer"/>
+  <member type="way" ref="1230560466" role="outer"/>
+  <member type="way" ref="369414362" role="outer"/>
+  <member type="way" ref="1230560467" role="outer"/>
+  <member type="way" ref="1164466567" role="outer"/>
+  <member type="way" ref="1164466566" role="outer"/>
+  <member type="way" ref="369414367" role="outer"/>
+  <member type="way" ref="384990667" role="outer"/>
+  <member type="way" ref="1164466577" role="outer"/>
+  <member type="way" ref="1164466576" role="outer"/>
+  <member type="way" ref="384990670" role="outer"/>
+  <member type="way" ref="243217983" role="outer"/>
+  <member type="way" ref="243217982" role="outer"/>
+  <member type="way" ref="1164466579" role="outer"/>
+  <member type="way" ref="1164466578" role="outer"/>
+  <member type="way" ref="1164466585" role="outer"/>
+  <member type="way" ref="1164466584" role="outer"/>
+  <tag k="boat" v="yes"/>
+  <tag k="name" v="Фонтанка"/>
+  <tag k="name:uk" v="Фонтанка"/>
+  <tag k="natural" v="water"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="water" v="river"/>
+ </relation>
+ <relation id="2653740" visible="true" version="36" changeset="141362250" timestamp="2023-09-16T23:59:15Z" user="Fizzie41" uid="461130">
+  <member type="way" ref="1164466516" role="outer"/>
+  <member type="way" ref="1164466517" role="outer"/>
+  <member type="way" ref="197658143" role="outer"/>
+  <member type="way" ref="197658145" role="outer"/>
+  <member type="way" ref="9873949" role="outer"/>
+  <member type="way" ref="197658144" role="outer"/>
+  <tag k="leisure" v="park"/>
+  <tag k="name" v="Летний сад"/>
+  <tag k="name:ca" v="Jardins d' Estiu"/>
+  <tag k="name:de" v="Sommergarten"/>
+  <tag k="name:en" v="Summer Garden"/>
+  <tag k="name:es" v="Jardín de Verano"/>
+  <tag k="name:fi" v="Kesäpuisto"/>
+  <tag k="name:fr" v="Jardin d’été"/>
+  <tag k="name:ru" v="Летний сад"/>
+  <tag k="name:zh" v="夏园"/>
+  <tag k="note" v="Летний сад является достопримечательностью. Рекомендую отметить как tourism=attraction"/>
+  <tag k="opening_hours" v="May-Sep: We-Mo 10:00-22:00; Tu off; Oct-Mar: We-Mo 10:00-20:00; Tu off; Apr: off"/>
+  <tag k="ref:okn" v="781620417890006"/>
+  <tag k="start_date" v="1704"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="wikidata" v="Q1229234"/>
+  <tag k="wikipedia" v="ru:Летний сад"/>
+ </relation>
+ <relation id="3298305" visible="true" version="37" changeset="141361719" timestamp="2023-09-16T23:21:35Z" user="traveleditor" uid="8726248">
+  <member type="way" ref="9873949" role="outer"/>
+  <member type="way" ref="287052714" role="outer"/>
+  <member type="way" ref="218557381" role="outer"/>
+  <member type="way" ref="1177904551" role="outer"/>
+  <member type="way" ref="1164424298" role="outer"/>
+  <member type="way" ref="1164424299" role="outer"/>
+  <member type="way" ref="243950404" role="outer"/>
+  <member type="way" ref="1177904552" role="outer"/>
+  <member type="way" ref="287049584" role="outer"/>
+  <member type="way" ref="197658142" role="outer"/>
+  <member type="way" ref="1164466516" role="outer"/>
+  <member type="way" ref="1164466517" role="outer"/>
+  <member type="way" ref="197658143" role="outer"/>
+  <member type="way" ref="371587755" role="outer"/>
+  <member type="way" ref="243947448" role="outer"/>
+  <member type="way" ref="371587752" role="outer"/>
+  <member type="way" ref="243955597" role="outer"/>
+  <member type="way" ref="126204788" role="outer"/>
+  <tag k="name" v="Летний Сад"/>
+  <tag k="name:en" v="Letnyy Sad"/>
+  <tag k="name:ru" v="Летний Сад"/>
+  <tag k="place" v="island"/>
+  <tag k="type" v="multipolygon"/>
+  <tag k="wikidata" v="Q4260121"/>
+  <tag k="wikipedia" v="ru:Летний Сад (остров)"/>
+ </relation>
+ <relation id="15750399" visible="true" version="1" changeset="135196313" timestamp="2023-04-21T14:23:58Z" user="mini-me" uid="3846961">
+  <member type="way" ref="1164466517" role="outer"/>
+  <member type="way" ref="1164466518" role="outer"/>
+  <member type="way" ref="1085665002" role="outer"/>
+  <member type="way" ref="1164466519" role="outer"/>
+  <tag k="man_made" v="pier"/>
+  <tag k="type" v="multipolygon"/>
+ </relation>
+</osm>
