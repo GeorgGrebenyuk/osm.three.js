@@ -4,6 +4,8 @@ Custom implementation of viewer the vector-OSM (OpenStreetMap) files using `jque
 # Using
 Load your OSM-file to web-space in  https://georggrebenyuk.github.io/osm.three.js/, and wait file's parsing. Enjoy!
 
+On large areas camera may be not zoomed (use small models). Some objects's graphic may be not visualized.
+
 # How OSM-file is readed?
 
 1. Because all OSM's content are stored in WGS-84 coordinates (geodetic latitude and longitude) script convert original coordinates to Mercator's projection using [simple equations](https://wiki.openstreetmap.org/wiki/Mercator#JavaScript);
@@ -17,10 +19,10 @@ Below lists a THREEJS's types for each case:
 - way (closing, building = false) -> THREE.Mesh(THREE.ShapeGeometry());
 
 
+
 # TODO:
 
-1. Adding internal material map (parse tags and getting material for that object's type);
-2. Fix scene clipping throw camera (for large scenes);
-3. Adding the procedure insted try/catch for checking, if outr polygon are contains the innr polygon;
-4. The frame to show OSM's attributes of selected items (or items near cursor);
-5. Possibility to load multiply files;
+1. Fix scene clipping throw camera (for large scenes);
+2. Adding the procedure insted try/catch for checking, if outr polygon are contains the innr polygon;
+3. Possibility to load multiply files;
+4. Fixing the problem, why some geometries will not visualized;
