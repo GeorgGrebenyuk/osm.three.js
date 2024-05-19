@@ -416,4 +416,25 @@ class OSM_Processing{
 		}
 		return null;
 	}
+
+	/**
+	 * Print to browser's console info about ojects's attributes and tags
+	 * @param {*} OSM_Feature_item 
+	 */
+	PrintSemantic(OSM_Feature_item){
+		console.clear();
+		console.log('\n'.repeat('25'));
+		console.log("Semantic info:");
+		console.log("Own attributes:");
+		for (const [key, value] of Object.entries(OSM_Feature_item.Attributes))
+		{
+			console.log(key + " : " + value);
+		} 
+		console.log("Own tags:");
+		for (const [key, value] of Object.entries(OSM_Feature_item.Properties))
+		{
+			console.log(key + " : " + value);
+		} 
+
+	}
 }

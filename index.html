@@ -157,9 +157,7 @@
 
                         if (osm_feature.TreeJS_Id == INTERSECTED.id)
                         {
-                            console.log("show semantic");
-                            console.log(osm_feature.Attributes);
-                            console.log(osm_feature.Properties);
+                            osm_loader_handler.PrintSemantic(osm_feature);
                         }
                     }
                     //other                   
@@ -276,7 +274,7 @@
             }
             zoomCameraToSelection(camera, controls, scene.children);
             render();
-            console.log("End!");
+            console.log("End reading!");
         };
 
         var Clear = function () {
@@ -297,7 +295,7 @@
             context1.font = "Bold 25px Arial";
             context1.fillStyle = "rgba(150,150,150,1)";
             context1.fillText('Move here ', 0, 80);
-            context1.fillText('yoyr OSM file...', 0, 104);
+            context1.fillText('your OSM file...', 0, 104);
 
             // canvas contents will be used for a texture
             var texture1 = new THREE.Texture(canvas1)
