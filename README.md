@@ -26,3 +26,6 @@ Below lists a THREEJS's types for each case:
 2. Adding the procedure insted try/catch for checking, if outr polygon are contains the innr polygon;
 3. Possibility to load multiply files;
 4. Fixing the problem, why some geometries will not visualized;
+
+# Acknowledgments
+The open-source project [bim.three.js](https://github.com/egghunters/bim-viewer) and it's author [egghunters](https://github.com/egghunters). I'm a new in JS and used project's materials as template for that repository.
