@@ -4,7 +4,9 @@ Custom implementation of viewer the vector-OSM (OpenStreetMap) files using `jque
 # Using
 Load your OSM-file to web-space in  https://georggrebenyuk.github.io/osm.three.js/, and wait file's parsing. Enjoy!
 
-On large areas camera may be not zoomed (use small models). Some objects's graphic may be not visualized.
+When pick the object in scene, in browser's console you can see the attributes and tags for OSM-object.
+
+On large areas camera may be not zoomed (use small models). Some objects's graphic may be not visualized. 
 
 # How OSM-file is readed?
 
