@@ -15,6 +15,7 @@ function lon2x(lon) { return lon * DEG2RAD * R; }
  */
 class OSM_Feature{
 	Id = "";
+	TreeJS_Id = 0;
 	Feature_type;
 	Attributes = {};
 	Properties= {};
@@ -58,18 +59,6 @@ class OSM_Processing{
 	 * The temporary dictionary (id: coords) for OSM's ways (polygons) which are closed
 	 */
 	#osm_ways = {};
-
-	/**
-	 * The definition of default material (#878787)
-	 */
-	#default_material = new THREE.MeshPhongMaterial({
-		side: THREE.DoubleSide,
-		flatShading: false,
-		transparent: true,
-		color: 0x878787
-	});
-
-	#default_material_buildings = new THREE.MeshPhongMaterial({ color: 0xffaaaa });
 
 	/**
 	 * The constructor of OSM_Processing class
@@ -140,7 +129,7 @@ class OSM_Processing{
 
 			this.#osm_nodes[osm_feature.Id] = osm_node_coords;
 				
-			const three_sphere = new THREE.Mesh(new THREE.SphereGeometry(1, 8, 8), this.#default_material);
+			const three_sphere = new THREE.Mesh(new THREE.SphereGeometry(1, 8, 8), this.#osm_get_material(osm_feature.Properties));
 			three_sphere.position.set(osm_node_coords[0], osm_node_coords[1], 0);
 			three_geometry = three_sphere;
 		}
@@ -174,7 +163,7 @@ class OSM_Processing{
 			if (!is_closed) {
 				osm_feature.Feature_type = "linestring";
 				const three_geometry_temp = new THREE.BufferGeometry().setFromPoints( three_points );
-				const three_line = new THREE.Line(three_geometry_temp, this.#default_material );
+				const three_line = new THREE.Line(three_geometry_temp, this.#osm_get_material(osm_feature.Properties) );
 				three_geometry = three_line;
 			}
 			else{
@@ -198,14 +187,14 @@ class OSM_Processing{
 						bevelEnabled: false,
 					};
 					const three_geom_temp = new THREE.ExtrudeGeometry(three_shape, extrudeSettings);
-					const three_mesh = new THREE.Mesh(three_geom_temp, this.#default_material_buildings );
+					const three_mesh = new THREE.Mesh(three_geom_temp, this.#osm_get_material(osm_feature.Properties) );
 					three_geometry = three_mesh;
 
 				}
 				else{
 					osm_feature.Feature_type = "polygon";
 					const three_geom_temp = new THREE.ShapeGeometry( three_shape );
-					const three_mesh = new THREE.Mesh(three_geom_temp, this.#default_material);
+					const three_mesh = new THREE.Mesh(three_geom_temp, this.#osm_get_material(osm_feature.Properties));
 					three_geometry = three_mesh;
 				}
 			}
@@ -283,8 +272,7 @@ class OSM_Processing{
 					if (is_building) three_geom_temp = new THREE.ExtrudeGeometry(one_shape, extrudeSettings);
 					else three_geom_temp = new THREE.ShapeGeometry( one_shape );
 
-					let mat = this.#default_material;
-					if (is_building) mat = this.#default_material_buildings;
+					let mat = this.#osm_get_material(osm_feature.Properties);
 
 					const three_mesh = new THREE.Mesh(three_geom_temp, mat);
 
@@ -306,6 +294,7 @@ class OSM_Processing{
 
 		if (three_geometry != null){
 			osm_feature.setGeometry(three_geometry);
+			osm_feature.TreeJS_Id = three_geometry.id;
 			this.OSM_Features.push(osm_feature);
 		}
 
@@ -363,6 +352,46 @@ class OSM_Processing{
 			}
 		}
 		return temp_dict;
+	}
+
+	/**
+	 * Get material code (HTML color) by propeties
+	 * @param {*} Attrs The tags dictionary for OSM feature
+	 */
+	#osm_get_material(Attrs){
+
+		//console.log(Attrs);
+		let target_color = 0x878787;
+		let is_find = false;
+
+		for (const [key, value] of Object.entries(Attrs)) 
+		{
+			//console.log("Key = " + key + " Value = " + value);
+			if (key == "building" && value.length > 0) target_color = 0xffaaaa;
+			if (key == "natural")
+			{
+				switch (value)
+				{
+					case "beach": case "heath": case "scree": target_color = 0xf1f4c7; break;
+					case "fell": target_color = 0xbbbbbb; break;
+					case "grassland": case "grassland": target_color = 0xbadd69; break;
+					case "sand": target_color = 0xfdbf6f; break;
+					case "wood": target_color = 0xadd3a5; break;
+					case "water": target_color = 0xb5d2d6; break;
+				}
+			}
+			if (key == "landuse")
+			{
+				switch (value)
+				{
+					case "grass": target_color = 0xbadd69; break;
+					case "quarry": target_color = 0xfdbf6f; break;
+				}
+			}
+		}
+
+		//return target_color;
+		return new THREE.MeshPhongMaterial({ color: target_color });
 	}
 
 	/**

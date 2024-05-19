@@ -23,17 +23,21 @@
     <script src="./js/osm_viewer.three.js"></script>
     <script src="./js/deps/three.min.js"></script>
 	<script src="./js/controls/OrbitControls.js"></script>
+    <!--  Main (for HTML's body)  -->
+    <!-- <script src="./js/osm_view_form.js"></script> -->
 	
 	
   </head>
    <body>
-		
-		<script>
+        <script>
         // DefaultUp
         THREE.Object3D.DefaultUp.set(0, 0, 1);
 
         // Create an empty scene
         var scene = new THREE.Scene();
+        let raycaster = new THREE.Raycaster();
+        let INTERSECTED;
+        const pointer = new THREE.Vector2();
 
         // Create a basic perspective camera
         var cameraDistance = 10;
@@ -85,6 +89,12 @@
             }
         });
 
+        document.addEventListener( 'pointermove', onPointerMove );
+        function onPointerMove( event ) {
+            pointer.x = ( event.clientX / window.innerWidth ) * 2 - 1;
+            pointer.y = - ( event.clientY / window.innerHeight ) * 2 + 1;
+        }
+
         document.addEventListener("keydown", function(event) {
             if (event.key === "1") {
                 renderer.setClearColor("#121212");
@@ -119,12 +129,78 @@
         var render = function () {
             // Render the scene
             renderer.render(scene, camera);
+
+            // find intersections
+
+            raycaster.setFromCamera( pointer, camera );
+            //https://stackoverflow.com/questions/28435308/three-js-my-program-dies-when-i-place-the-pointer-over-the-three-line
+            var intersects = raycaster.intersectObjects(scene.children), material;
+
+            if (intersects.length > 0) {
+                if (INTERSECTED != intersects[0].object) {
+
+                    if (INTERSECTED){
+                        material = INTERSECTED.material;
+                        if(material.emissive){
+                            material.emissive.setHex(INTERSECTED.currentHex);
+                        }
+                        else{
+                            material.color.setHex(INTERSECTED.currentHex);
+                        }
+                    }   
+                    INTERSECTED = intersects[0].object;
+                    //show props 
+                    
+                    for (let i_o = 0; i_o < osm_loader_handler.OSM_Features.length; i_o++ )
+                    {
+                        var osm_feature = osm_loader_handler.OSM_Features[i_o];
+
+                        if (osm_feature.TreeJS_Id == INTERSECTED.id)
+                        {
+                            console.log("show semantic");
+                            console.log(osm_feature.Attributes);
+                            console.log(osm_feature.Properties);
+                        }
+                    }
+                    //other                   
+                    material = INTERSECTED.material;
+                    if(material.emissive){
+                        INTERSECTED.currentHex = INTERSECTED.material.emissive.getHex();
+                        material.emissive.setHex(0xff0000);
+                    }
+                    else{
+                        INTERSECTED.currentHex = material.color.getHex();
+                        material.color.setHex(0xff0000);
+                    }
+
+                    //console.log(INTERSECTED.position);
+                }
+
+                } else {
+
+                if (INTERSECTED){
+                    material = INTERSECTED.material;
+
+                    if(material.emissive){
+                        material.emissive.setHex(INTERSECTED.currentHex);
+                    }
+                    else
+                    {
+                        material.color.setHex(INTERSECTED.currentHex);
+                    }
+                }
+
+                INTERSECTED = null;
+
+                }
         };
+
+
 
         render();
         renderLoop();
-		
-		// OrbitControls
+
+        // OrbitControls
         var controls = new THREE.OrbitControls(camera, renderer.domElement);
         controls.addEventListener('change', render);
         controls.update();
@@ -193,6 +269,8 @@
                 if (Object.keys(attrs).length > 1 && g !== undefined ) 
                 {
                     scene.add(g);
+                    //console.log(g);
+                    //item.TreeJS_Id = g.id;
                     //console.log("Add");
                 }
             }
@@ -239,8 +317,6 @@
         }
 
         CreateText();
-
-    </script>
-
+        </script>
 	</body>
 </html>
