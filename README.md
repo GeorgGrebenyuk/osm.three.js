@@ -25,8 +25,8 @@ Below lists a THREEJS's types for each case:
 # TODO:
 
 1. Fix scene clipping throw camera (for large scenes);
-2. Adding the procedure insted try/catch for checking, if outr polygon are contains the innr polygon;
-3. Possibility to load multiply files;
+2. Adding the procedure instead  try/catch for checking, if outer polygon are contains the inner polygon;
+3. Possibility to load multiple files;
 4. Fixing the problem, why some geometries will not visualized;
 
 # Acknowledgments
